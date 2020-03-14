@@ -1,0 +1,538 @@
+[01:56:41] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[01:56:41] [Server thread/INFO]: Loading properties
+[01:56:42] [Server thread/INFO]: This server is running Paper version git-Paper-133 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[01:56:43] [Server thread/INFO]: Debug logging is disabled
+[01:56:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:56:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:56:43] [Server thread/INFO]: Default game type: SURVIVAL
+[01:56:43] [Server thread/INFO]: Generating keypair
+[01:56:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:56:44] [Server thread/INFO]: Using default channel type
+[01:56:49] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[01:56:49] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[01:56:49] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[01:56:49] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[01:56:49] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[01:56:49] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
+[01:56:49] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.2.0
+[01:56:49] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.2.0
+[01:56:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:56:49] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[01:56:49] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[01:56:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:56:50] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:56:50] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[01:56:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:56:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:56:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:56:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:56:50] [Server thread/INFO]: Preparing level "OffoschWorld1"
+[01:56:52] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:56:54] [Server thread/INFO]: Loaded 6 recipes
+[01:56:56] [Server thread/INFO]: -------- World Settings For [OffoschWorld1] --------
+[01:56:56] [Server thread/INFO]: View Distance: 10
+[01:56:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:56:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:56:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:56:56] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:56:56] [Server thread/INFO]: Mob Spawn Range: 8
+[01:56:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:56:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:56:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:56:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:56:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:56:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:56:56] [Server thread/INFO]: Max TNT Explosions: 100
+[01:56:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[01:56:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:56:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:56:57] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_nether] --------
+[01:56:57] [Server thread/INFO]: View Distance: 10
+[01:56:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:56:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:56:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:56:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:56:57] [Server thread/INFO]: Mob Spawn Range: 8
+[01:56:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:56:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:56:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:56:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:56:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:56:57] [Server thread/INFO]: Max TNT Explosions: 100
+[01:56:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[01:56:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:56:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:56:57] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_the_end] --------
+[01:56:57] [Server thread/INFO]: View Distance: 10
+[01:56:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:56:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:56:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:56:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:56:57] [Server thread/INFO]: Mob Spawn Range: 8
+[01:56:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:56:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:56:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:56:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:56:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:56:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:56:57] [Server thread/INFO]: Max TNT Explosions: 100
+[01:56:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[01:56:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:56:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:56:57] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1'/minecraft:overworld
+[01:56:58] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:58] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:59] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:59] [Server thread/INFO]: Preparing spawn area: 0%
+[01:57:00] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[01:57:00] [Server thread/INFO]: Preparing spawn area: 0%
+[01:57:01] [Server thread/INFO]: Preparing spawn area: 65%
+[01:57:01] [Server thread/INFO]: Preparing spawn area: 100%
+[01:57:01] [Server thread/INFO]: Preparing spawn area: 100%
+[01:57:04] [Server-Worker-5/INFO]: Preparing spawn area: 100%
+[01:57:04] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[01:57:04] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[01:57:04] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[01:57:04] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[01:57:04] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[01:57:05] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1
+[01:57:05] [Server thread/INFO]: Time elapsed: 7464 ms
+[01:57:05] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_nether'/minecraft:the_nether
+[01:57:05] [Server thread/INFO]: Preparing spawn area: 0%
+[01:57:05] [Server thread/INFO]: Preparing spawn area: 78%
+[01:57:06] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[01:57:06] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[01:57:07] [Server-Worker-5/INFO]: Preparing spawn area: 100%
+[01:57:07] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[01:57:08] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[01:57:08] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[01:57:09] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_nether
+[01:57:09] [Server thread/INFO]: Time elapsed: 3909 ms
+[01:57:09] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_the_end'/minecraft:the_end
+[01:57:09] [Server thread/INFO]: Preparing spawn area: 0%
+[01:57:09] [Server thread/INFO]: Preparing spawn area: 100%
+[01:57:10] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[01:57:10] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_the_end
+[01:57:10] [Server thread/INFO]: Time elapsed: 1339 ms
+[01:57:10] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[01:57:10] [Server thread/INFO]: [Essentials] Creating config from template: d:\MC\plugins\Essentials\config.yml
+[01:57:10] [Server thread/INFO]: [Essentials] Creating config from template: d:\MC\plugins\Essentials\kits.yml
+[01:57:10] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:57:10] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:57:10] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[01:57:10] [Server thread/INFO]: [Essentials] Starting usermap repair
+[01:57:10] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[01:57:10] [pool-8-thread-1/INFO]: [Essentials] Creating empty config: d:\MC\plugins\Essentials\upgrades-done.yml
+[01:57:10] [Server thread/INFO]: [Essentials] Creating config from template: d:\MC\plugins\Essentials\worth.yml
+[01:57:10] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[01:57:10] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[01:57:10] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[01:57:11] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
+[01:57:11] [Server thread/INFO]: [Essentials] Creating config from template: d:\MC\plugins\Essentials\custom_items.yml
+[01:57:11] [Server thread/INFO]: [Essentials] Using locale hu_HU
+[01:57:11] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:57:11] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:57:11] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[01:57:11] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[01:57:11] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[01:57:11] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[01:57:11] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[01:57:11] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[01:57:11] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
+[01:57:11] [Server thread/INFO]: [Essentials] Konfig létrehozása sablonból: d:\MC\plugins\EssentialsGeoIP\config.yml
+[01:57:11] [Server thread/WARN]: [Essentials] Missing translation key "geoIpLicenseMissing" in translation file hu
+java.util.MissingResourceException: Can't find resource for bundle java.util.PropertyResourceBundle, key geoIpLicenseMissing
+	at java.util.ResourceBundle.getObject(Unknown Source) ~[?:1.8.0_45]
+	at java.util.ResourceBundle.getObject(Unknown Source) ~[?:1.8.0_45]
+	at java.util.ResourceBundle.getString(Unknown Source) ~[?:1.8.0_45]
+	at com.earth2me.essentials.I18n.translate(I18n.java:64) ~[?:?]
+	at com.earth2me.essentials.I18n.tl(I18n.java:77) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.downloadDatabase(EssentialsGeoIPPlayerListener.java:181) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:141) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:470) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:384) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:482) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:298) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:885) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:57:11] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[01:57:11] [Server thread/ERROR]: [EssentialsGeoIP] Nem tudom beolvasni a GeoIP adatbázist!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (A rendszer nem találja a megadott fájlt)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_45]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_45]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[?:1.8.0_45]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:158) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:470) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:384) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:482) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:298) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:885) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:57:11] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[01:57:11] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.2.0
+[01:57:11] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.2.0
+[01:57:11] [Server thread/INFO]: [Essentials] Konfig létrehozása sablonból: d:\MC\plugins\EssentialsXMPP\config.yml
+[01:57:11] [Server thread/WARN]: [EssentialsXMPP] config broken for xmpp
+[01:57:11] [Server thread/INFO]: Done (21.527s)! For help, type "help"
+[01:57:11] [Server thread/INFO]: Timings Reset
+[01:57:11] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[01:57:12] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[01:57:13] [User Authenticator #1/INFO]: UUID of player petaki is b5860217-0ccd-313e-a23e-4938ab857376
+[01:57:14] [Server thread/INFO]: petaki[/127.0.0.1:50580] logged in with entity id 248 at ([OffoschWorld1]-49.30000001192093, 47.0, -165.72787028911355)
+[01:57:14] [Server thread/WARN]: [Essentials] Task #12 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$$Lambda$2937/206289491.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:57:15] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[01:57:15] [pool-8-thread-1/INFO]: [Essentials] Üres konfig létrehozása: d:\MC\plugins\Essentials\userdata\b5860217-0ccd-313e-a23e-4938ab857376.yml
+[01:57:26] [Server thread/INFO]: petaki issued server command: /afk
+[01:57:44] [User Authenticator #1/INFO]: UUID of player Szemes_Erno is 7a94548d-7588-363d-9200-80ad69412fd7
+[01:57:44] [Server thread/INFO]: Szemes_Erno[/31.46.253.130:51459] logged in with entity id 269 at ([OffoschWorld1]-52.39070863034303, 11.0, -205.597210805499)
+[01:57:44] [Server thread/WARN]: [Essentials] Task #18 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$$Lambda$2937/206289491.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:57:44] [pool-8-thread-1/INFO]: [Essentials] Üres konfig létrehozása: d:\MC\plugins\Essentials\userdata\7a94548d-7588-363d-9200-80ad69412fd7.yml
+[01:57:49] [Async Chat Thread - #0/INFO]: <petaki> lol miért magyar
+[01:57:54] [Async Chat Thread - #0/INFO]: <petaki> nem is állítottam be semmit :D
+[01:57:54] [Async Chat Thread - #0/INFO]: <Szemes_Erno> visszajött
+[01:58:05] [Async Chat Thread - #0/INFO]: <petaki> nagyon intelligens ezek szerint
+[01:58:17] [Async Chat Thread - #0/INFO]: <Szemes_Erno> bazeg nincs fám
+[01:58:17] [Server thread/INFO]: petaki issued server command: /nick
+[01:58:26] [Server thread/INFO]: petaki issued server command: /nick Szemes_Erno Béla
+[01:58:28] [Server thread/INFO]: Szemes_Erno issued server command: /afk
+[01:58:30] [Async Chat Thread - #0/INFO]: <petaki> :DD
+[01:58:31] [Async Chat Thread - #0/INFO]: <~Béla> mi béla
+[01:58:33] [Async Chat Thread - #0/INFO]: <~Béla> faku
+[01:58:38] [Server thread/INFO]: petaki issued server command: /nickname Szemes_Erno
+[01:58:39] [Server thread/INFO]: Szemes_Erno issued server command: /help
+[01:58:40] [Server thread/INFO]: petaki issued server command: /nickname Szemes_Erno off
+[01:58:45] [Async Chat Thread - #0/INFO]: <petaki> kiszedtem elvileg
+[01:58:49] [Async Chat Thread - #0/INFO]: <Szemes_Erno> g
+[01:58:56] [Async Chat Thread - #0/INFO]: <petaki> ./nickname
+[01:59:01] [Async Chat Thread - #0/INFO]: <Szemes_Erno> betolom a szovjet himnuszt pill
+[01:59:05] [Async Chat Thread - #0/INFO]: <petaki> :DD
+[01:59:08] [Server thread/INFO]: Szemes_Erno issued server command: /afk
+[01:59:43] [Server thread/INFO]: petaki issued server command: /email
+[01:59:51] [Async Chat Thread - #0/INFO]: <Szemes_Erno> g
+[02:00:01] [Server thread/INFO]: petaki issued server command: /email send Szemes_Erno test
+[02:00:13] [Async Chat Thread - #0/INFO]: <petaki> najo a languaget gyorsan megkeresem hol van
+[02:00:20] [Async Chat Thread - #0/INFO]: <Szemes_Erno> dánra raknám
+[02:00:29] [Server thread/INFO]: petaki issued server command: /lag
+[02:00:34] [Async Chat Thread - #0/INFO]: <Szemes_Erno> Szemes_Erno er vaek
+[02:00:52] [Server thread/INFO]: petaki issued server command: /lag
+[02:01:02] [Async Chat Thread - #0/INFO]: <Szemes_Erno> Szemes_Erno er bag
+[02:01:05] [Async Chat Thread - #0/INFO]: <petaki> lol alig 400 megát használ ramból
+[02:01:14] [Async Chat Thread - #0/INFO]: <Szemes_Erno> vagy tilbage? mittomén hogy írná a rendszer xD
+[02:01:21] [Async Chat Thread - #0/INFO]: <petaki> kipróbálhatjuk.. xd
+[02:01:35] [Server thread/INFO]: petaki issued server command: /group
+[02:01:45] [Server thread/INFO]: petaki issued server command: /setidletimeout
+[02:02:00] [Server thread/INFO]: petaki issued server command: /paper
+[02:02:06] [Server thread/INFO]: petaki issued server command: /help
+[02:02:10] [Server thread/INFO]: petaki issued server command: /help essentials
+[02:02:15] [Server thread/INFO]: petaki issued server command: /help essentials 2
+[02:02:17] [Async Chat Thread - #0/INFO]: <Szemes_Erno> kéne majd valami farm
+[02:02:25] [Server thread/INFO]: petaki issued server command: /help essentials 3
+[02:02:32] [Async Chat Thread - #0/INFO]: <petaki> mik ezek a commandok, van beezoka
+[02:02:41] [Async Chat Thread - #0/INFO]: <petaki> robbanó méhet lõ ki a karakter ahova nézel
+[02:02:47] [Async Chat Thread - #0/INFO]: <petaki> inkább nem próbálom ki
+[02:02:55] [Server thread/INFO]: petaki issued server command: /condense
+[02:03:11] [Server thread/INFO]: petaki issued server command: /disposal
+[02:03:51] [Server thread/INFO]: petaki issued server command: /? 4
+[02:03:52] [Server thread/INFO]: petaki issued server command: /? 1
+[02:03:55] [Server thread/INFO]: petaki issued server command: /? essentials
+[02:04:24] [Server thread/INFO]: petaki issued server command: /? essentials 4
+[02:04:30] [Server thread/INFO]: petaki issued server command: /? essentials 5
+[02:04:38] [Server thread/INFO]: petaki issued server command: /? essentials 6
+[02:04:40] [Server thread/INFO]: petaki issued server command: /gc
+[02:04:51] [Server thread/INFO]: petaki issued server command: /? essentials 7
+[02:04:55] [Server thread/INFO]: petaki issued server command: /? essentials 8
+[02:05:05] [Server thread/INFO]: petaki issued server command: /? essentials 9
+[02:05:14] [Server thread/INFO]: petaki issued server command: /? essentials 10
+[02:05:15] [Server thread/INFO]: petaki issued server command: /ping
+[02:05:24] [Async Chat Thread - #1/INFO]: <petaki> legjobb command akkor is a ./ping
+[02:05:32] [Server thread/INFO]: Szemes_Erno issued server command: /ping
+[02:05:34] [Server thread/INFO]: petaki issued server command: /? essentials 11
+[02:05:41] [Server thread/INFO]: petaki issued server command: /? essentials 12
+[02:05:41] [Server thread/INFO]: Szemes_Erno issued server command: /mail read
+[02:05:46] [Server thread/INFO]: petaki issued server command: /? essentials 13
+[02:05:47] [Async Chat Thread - #1/INFO]: <Szemes_Erno> mi
+[02:05:50] [Async Chat Thread - #1/INFO]: <Szemes_Erno> tiszteltház mail is acvn
+[02:05:51] [Async Chat Thread - #1/INFO]: <Szemes_Erno> van
+[02:06:00] [Async Chat Thread - #1/INFO]: <Szemes_Erno> btw van még gyémánt
+[02:06:02] [Async Chat Thread - #1/INFO]: <petaki> amúgy tudok csinálni
+[02:06:15] [Async Chat Thread - #1/INFO]: <petaki> csinálok egy TiszteltHáz groupot és akkor lehet mailt írni oda
+[02:06:19] [Server thread/INFO]: petaki issued server command: /? essentials 14
+[02:06:22] [Server thread/INFO]: petaki issued server command: /? essentials 15
+[02:06:28] [Async Chat Thread - #1/INFO]: <petaki> na elkezdek én is játszani
+[02:06:33] [Async Chat Thread - #1/INFO]: <Szemes_Erno> megint gyémánt lol
+[02:06:47] [Async Chat Thread - #1/INFO]: <Szemes_Erno> 4 db
+[02:06:52] [Async Chat Thread - #1/INFO]: <Szemes_Erno> van 10 =D
+[02:07:07] [Async Chat Thread - #1/INFO]: <Szemes_Erno> kéne papír farm
+[02:09:00] [Async Chat Thread - #2/INFO]: <petaki> spawnt átrakjam ide a házhoz amúgy?
+[02:09:08] [Async Chat Thread - #2/INFO]: <petaki> elé,vagy valami
+[02:09:09] [Async Chat Thread - #2/INFO]: <Szemes_Erno> nemkell boi, mondjuk a koordinátákat
+[02:09:12] [Async Chat Thread - #2/INFO]: <petaki> oké
+[02:09:16] [Async Chat Thread - #2/INFO]: <Szemes_Erno> onnan meg ágyat csinál mindenki
+[02:10:02] [Server thread/INFO]: petaki has made the advancement [Suit Up]
+[02:10:08] [Async Chat Thread - #2/INFO]: <petaki> thx
+[02:10:18] [Async Chat Thread - #2/INFO]: <Szemes_Erno> nm
+[02:10:31] [Async Chat Thread - #2/INFO]: <Szemes_Erno> vissza kell szokni a régi lingóba :D
+[02:10:36] [Async Chat Thread - #2/INFO]: <Szemes_Erno> van 16 arany
+[02:11:08] [Async Chat Thread - #2/INFO]: <petaki> valahogy nekem is magamtól jöttek ezek :D
+[02:11:17] [Async Chat Thread - #2/INFO]: <petaki> kibõvítem házat szerintem picit
+[02:11:27] [Async Chat Thread - #2/INFO]: <petaki> mert rühellem ha egy láda van minden shitnek
+[02:11:44] [Async Chat Thread - #2/INFO]: <Szemes_Erno> okei
+[02:12:06] [Async Chat Thread - #2/INFO]: <Szemes_Erno> hozzak valamit?
+[02:12:12] [Async Chat Thread - #2/INFO]: <petaki> fát kell majd vágni
+[02:12:16] [Async Chat Thread - #2/INFO]: <petaki> na egy dologra kíváncsi vagyok
+[02:12:18] [Async Chat Thread - #2/INFO]: <Szemes_Erno> goin' in hot boys
+[02:12:22] [Async Chat Thread - #2/INFO]: <petaki> igen, elég 50%nak aludnia
+[02:12:26] [Async Chat Thread - #2/INFO]: <petaki> ha kell ezt ki tudom majd kapcsolni
+[02:12:39] [Async Chat Thread - #2/INFO]: <Szemes_Erno> o rly
+[02:12:49] [Async Chat Thread - #2/INFO]: <Szemes_Erno> maradjon a mindenki alszik :D
+[02:12:52] [Async Chat Thread - #2/INFO]: <Szemes_Erno> azért van benne funky
+[02:12:54] [Async Chat Thread - #2/INFO]: <petaki> oké, majd leállítás után
+[02:13:04] [Async Chat Thread - #2/INFO]: <Szemes_Erno> régen bezzeg amikor még dolog volt "túlélni az elsõ éjszakát"
+[02:13:12] [Async Chat Thread - #2/INFO]: <Szemes_Erno> jó paulsoaresjr tutorial :DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[02:13:59] [Async Chat Thread - #2/INFO]: <petaki> az a vicces hogy a legtöbb youtuber a mai napig tolja, aki 5-8éve kezdte
+[02:14:19] [Async Chat Thread - #2/INFO]: <Szemes_Erno> azért a '10-es évek meghatározó játéka volt :D
+[02:14:24] [Async Chat Thread - #2/INFO]: <Szemes_Erno> és nem úgy néz ki, hogy lassítana :D
+[02:15:35] [Async Chat Thread - #3/INFO]: <Szemes_Erno> 20 fps ennek mi baja
+[02:15:45] [Async Chat Thread - #3/INFO]: <petaki> nekem stabil 60, érdekes
+[02:15:46] [Server thread/INFO]: petaki issued server command: /gc
+[02:15:52] [Async Chat Thread - #3/INFO]: <petaki> ./gc-re mennyi TPS-t ír neked?
+[02:16:47] [Async Chat Thread - #3/INFO]: <Szemes_Erno> vsycn
+[02:16:50] [Server thread/INFO]: Szemes_Erno issued server command: /gc
+[02:16:58] [Async Chat Thread - #3/INFO]: <Szemes_Erno> 20
+[02:17:02] [Async Chat Thread - #3/INFO]: <petaki> akkor oké, az a max
+[02:17:36] [Async Chat Thread - #3/INFO]: <petaki> vas nincs már, vagy nálad van?
+[02:17:51] [Async Chat Thread - #3/INFO]: <Szemes_Erno> az mondjuk komoly, hogy a firefox többet visz prociból mint az mc
+[02:17:53] [Async Chat Thread - #3/INFO]: <petaki> köszi
+[02:17:59] [Async Chat Thread - #3/INFO]: <petaki> nagoyn durván optimalizálták
+[02:18:06] [Async Chat Thread - #3/INFO]: <petaki> és ez még a javas verzió, a win10es még jobb elvileg
+[02:19:06] [Async Chat Thread - #3/INFO]: <Szemes_Erno> nemtom miért csak 30 fps körül fut am
+[02:19:15] [Async Chat Thread - #3/INFO]: <Szemes_Erno> mármint nincs túlterhelve a rendszer
+[02:19:23] [Async Chat Thread - #3/INFO]: <Szemes_Erno> memóriát kéne neki adni többet
+[02:19:27] [Async Chat Thread - #3/INFO]: <petaki> lehet
+[02:19:50] [Async Chat Thread - #3/INFO]: <Szemes_Erno> mondjuk vsync meg firefox nélkül hoz 50-et
+[02:20:01] [Async Chat Thread - #3/INFO]: <petaki> ez otthoni régebbi gép?
+[02:20:06] [Async Chat Thread - #3/INFO]: <Szemes_Erno> 40-50, néha rohangálás közben meghal picit xD
+[02:20:10] [Async Chat Thread - #3/INFO]: <Szemes_Erno> régebbi, de nem olyan szar
+[02:20:16] [Async Chat Thread - #3/INFO]: <Szemes_Erno> 3ghz 4 magon 8 db memória
+[02:20:17] [Async Chat Thread - #3/INFO]: <petaki> kitoltam most unlimitedre
+[02:20:26] [Async Chat Thread - #3/INFO]: <Szemes_Erno> gb
+[02:20:37] [Async Chat Thread - #3/INFO]: <Szemes_Erno> memóriát kéne neki adni
+[02:20:40] [Async Chat Thread - #3/INFO]: <petaki> 250-270 fps :D
+[02:20:51] [Async Chat Thread - #3/INFO]: <petaki> nekem 2 van neki, annak kb 50-60%át viszi el
+[02:22:05] [Async Chat Thread - #4/INFO]: <Szemes_Erno> nekemis ottkörül
+[02:22:07] [Async Chat Thread - #4/INFO]: <Szemes_Erno> 2 db
+[02:22:47] [Async Chat Thread - #4/INFO]: <Szemes_Erno> de 95% allocated
+[02:22:52] [Async Chat Thread - #4/INFO]: <petaki> az 100% nekem is
+[02:22:53] [Async Chat Thread - #4/INFO]: <Szemes_Erno> megnézem több rammal, adok neki 4-et
+[02:22:57] [Server thread/INFO]: Szemes_Erno lost connection: Disconnected
+[02:22:57] [Server thread/INFO]: Szemes_Erno left the game
+[02:22:57] [Server thread/WARN]: [Essentials] Task #22 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$$Lambda$3304/55311780.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[02:25:37] [User Authenticator #2/INFO]: UUID of player Szemes_Erno is 7a94548d-7588-363d-9200-80ad69412fd7
+[02:25:37] [Server thread/INFO]: Szemes_Erno[/31.46.253.130:52489] logged in with entity id 4005 at ([OffoschWorld1]-50.87553896180059, 71.0, -140.9095307219837)
+[02:25:37] [Server thread/WARN]: [Essentials] Task #26 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$$Lambda$2937/206289491.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[02:26:04] [Async Chat Thread - #5/INFO]: <Szemes_Erno> fullscreenben tolod?
+[02:26:12] [Async Chat Thread - #5/INFO]: <petaki> max window
+[02:26:38] [Async Chat Thread - #5/INFO]: <Szemes_Erno> mennyi a render distance?
+[02:26:44] [Async Chat Thread - #5/INFO]: <petaki> 15
+[02:26:47] [Async Chat Thread - #5/INFO]: <petaki> minden más maxon
+[02:27:04] [Async Chat Thread - #5/INFO]: <Szemes_Erno> én vsyncet kikapcsoltam, az dobott rajta 20 fps-t
+[02:27:11] [Async Chat Thread - #5/INFO]: <Szemes_Erno> 10 a render distance, minden más maxon
+[02:27:12] [Async Chat Thread - #5/INFO]: <petaki> persze, az lekorlátozza eléggé
+[02:27:25] [Async Chat Thread - #5/INFO]: <Szemes_Erno> de feladatkezelõben nem írja, hogy bármelyik erõforrás nagyon haldokolna :D
+[02:27:35] [Async Chat Thread - #5/INFO]: <Szemes_Erno> vannak cserébe random jvm argumentek amik nemtudom mit tolnak
+[02:27:50] [Async Chat Thread - #5/INFO]: <petaki> why fos
+[02:28:08] [Async Chat Thread - #5/INFO]: <Szemes_Erno> 20% gpu ha nagyon nagyon használja
+[02:28:10] [Async Chat Thread - #5/INFO]: <petaki> rég csináltam redstonet, már ez se megy
+[02:28:32] [Async Chat Thread - #5/INFO]: <petaki> az érdekes módon nekem 40% körül van
+[02:28:38] [Async Chat Thread - #5/INFO]: <petaki> pedig pont annak kéne bírnia
+[02:30:51] [Async Chat Thread - #6/INFO]: <Szemes_Erno> vidikártya lehet 8 éves, de nem erölteti meg magát :D
+[02:31:22] [Async Chat Thread - #6/INFO]: <Szemes_Erno> majd venni akarok valami géming laptopot
+[02:31:26] [Async Chat Thread - #6/INFO]: <petaki> ezért nem értem a 1650nek miért fáj :D
+[02:31:37] [Async Chat Thread - #6/INFO]: <Szemes_Erno> és édesapám cégére verem a balhét, oszt visszajön az áfa B)
+[02:31:45] [Async Chat Thread - #6/INFO]: <petaki> :DD
+[02:31:54] [Async Chat Thread - #6/INFO]: <petaki> jaj mindig elfelejtem hogy dupla ajtót nem lehet közvetlen pressure plateel elõtte...
+[02:32:03] [Async Chat Thread - #6/INFO]: <Szemes_Erno> 30 alá nemnagyon megy meg inkább 45-50 körül van
+[02:32:13] [Async Chat Thread - #6/INFO]: <Szemes_Erno> lehet mondjuk a monitor befolyásol valamit
+[02:32:17] [Async Chat Thread - #6/INFO]: <petaki> nem kéne neki
+[02:32:18] [Async Chat Thread - #6/INFO]: <Szemes_Erno> mármint az van már 15 éves
+[02:32:27] [Async Chat Thread - #6/INFO]: <petaki> mármint, visszafelé nem kommunikál :D
+[02:32:36] [Async Chat Thread - #6/INFO]: <Szemes_Erno> elvileg nem xD
+[02:32:38] [Async Chat Thread - #6/INFO]: <Szemes_Erno> mik azok a mipmapok
+[02:33:45] [Async Chat Thread - #7/INFO]: <petaki> valami részletességes shit, nem vágom pontosan
+[02:34:03] [Async Chat Thread - #7/INFO]: <petaki> te tanultál grafikát, nem én
+[02:34:11] [Async Chat Thread - #7/INFO]: <Szemes_Erno> 2 éve, azóta nem foglalkoztam vele
+[02:38:13] [Async Chat Thread - #8/INFO]: <Szemes_Erno> mindegy, igaziból mostmár jó, mert nem észrevehetõ, ha random 50-rõl lemegy 40-re
+[02:38:23] [Async Chat Thread - #8/INFO]: <Szemes_Erno> csak nem értem, hogy miért nem használja jobban az erõforrásokat
+[02:38:32] [Async Chat Thread - #8/INFO]: <Szemes_Erno> megnézem a jvm cuccokat is, hátha
+[02:38:33] [Server thread/INFO]: Szemes_Erno lost connection: Disconnected
+[02:38:33] [Server thread/INFO]: Szemes_Erno left the game
+[02:38:33] [Server thread/WARN]: [Essentials] Task #30 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$$Lambda$3304/55311780.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[02:49:04] [User Authenticator #3/INFO]: UUID of player Szemes_Erno is 7a94548d-7588-363d-9200-80ad69412fd7
+[02:49:05] [Server thread/INFO]: Szemes_Erno[/31.46.253.130:53153] logged in with entity id 6114 at ([OffoschWorld1]-53.99159276540219, 68.0, -142.42201354445118)
+[02:49:05] [Server thread/WARN]: [Essentials] Task #34 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$$Lambda$2937/206289491.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[02:49:09] [Async Chat Thread - #9/INFO]: <petaki> akkor mégsem
+[02:49:15] [Server thread/INFO]: Szemes_Erno lost connection: Disconnected
+[02:49:15] [Server thread/INFO]: Szemes_Erno left the game
+[02:49:15] [Server thread/WARN]: [Essentials] Task #37 for Essentials v2.17.2.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener$$Lambda$3304/55311780.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:452) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1185) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:430) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[02:49:19] [Server thread/INFO]: Stopping the server
+[02:49:19] [Server thread/INFO]: Stopping server
+[02:49:19] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.17.2.0
+[02:49:19] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.17.2.0
+[02:49:19] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.0
+[02:49:19] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[02:49:19] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[02:49:19] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
+[02:49:19] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[02:49:19] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[02:49:19] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[02:49:19] [Server thread/INFO]: Saving players
+[02:49:19] [Server thread/INFO]: petaki lost connection: Server closed
+[02:49:19] [Server thread/INFO]: petaki left the game
+[02:49:19] [Server thread/INFO]: Saving worlds
+[02:49:19] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
+[02:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[02:49:20] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
+[02:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:49:20] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
+[02:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:49:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[02:49:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:49:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
