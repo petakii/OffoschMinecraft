@@ -1,0 +1,240 @@
+[21:23:02] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:23:02] [Server thread/INFO]: Loading properties
+[21:23:03] [Server thread/INFO]: This server is running Paper version git-Paper-133 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[21:23:03] [Server thread/INFO]: Debug logging is disabled
+[21:23:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:23:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:23:03] [Server thread/INFO]: Default game type: SURVIVAL
+[21:23:03] [Server thread/INFO]: Generating keypair
+[21:23:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:23:04] [Server thread/INFO]: Using default channel type
+[21:23:15] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[21:23:15] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[21:23:15] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[21:23:15] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[21:23:15] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[21:23:15] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
+[21:23:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:23:15] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[21:23:15] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[21:23:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[21:23:15] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[21:23:15] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[21:23:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:23:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:23:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:23:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:23:15] [Server thread/INFO]: Preparing level "OffoschWorld1"
+[21:23:17] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:23:20] [Server thread/INFO]: Loaded 6 recipes
+[21:23:20] [Server thread/INFO]: -------- World Settings For [OffoschWorld1] --------
+[21:23:20] [Server thread/INFO]: View Distance: 10
+[21:23:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:23:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:23:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:23:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:23:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:23:20] [Server thread/INFO]: Mob Spawn Range: 8
+[21:23:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:23:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:23:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:23:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:23:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:23:20] [Server thread/INFO]: Max TNT Explosions: 100
+[21:23:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:23:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:23:20] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_nether] --------
+[21:23:20] [Server thread/INFO]: View Distance: 10
+[21:23:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:23:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:23:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:23:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:23:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:23:20] [Server thread/INFO]: Mob Spawn Range: 8
+[21:23:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:23:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:23:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:23:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:23:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:23:20] [Server thread/INFO]: Max TNT Explosions: 100
+[21:23:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:23:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:23:20] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_the_end] --------
+[21:23:20] [Server thread/INFO]: View Distance: 10
+[21:23:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:23:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:23:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:23:20] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:23:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:23:20] [Server thread/INFO]: Mob Spawn Range: 8
+[21:23:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:23:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:23:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:23:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:23:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:23:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:23:20] [Server thread/INFO]: Max TNT Explosions: 100
+[21:23:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:23:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:23:20] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1'/minecraft:overworld
+[21:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:21] [Server thread/INFO]: Preparing spawn area: 1%
+[21:23:21] [Server thread/INFO]: Preparing spawn area: 8%
+[21:23:22] [Server thread/INFO]: Preparing spawn area: 57%
+[21:23:22] [Server thread/INFO]: Preparing spawn area: 80%
+[21:23:23] [Server thread/INFO]: Preparing spawn area: 100%
+[21:23:23] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1
+[21:23:23] [Server thread/INFO]: Time elapsed: 2901 ms
+[21:23:23] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_nether'/minecraft:the_nether
+[21:23:23] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:24] [Server thread/INFO]: Preparing spawn area: 39%
+[21:23:24] [Server thread/INFO]: Preparing spawn area: 50%
+[21:23:25] [Server thread/INFO]: Preparing spawn area: 100%
+[21:23:25] [Server thread/INFO]: Preparing spawn area: 100%
+[21:23:25] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_nether
+[21:23:25] [Server thread/INFO]: Time elapsed: 2094 ms
+[21:23:25] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_the_end'/minecraft:the_end
+[21:23:26] [Server thread/INFO]: Preparing spawn area: 0%
+[21:23:26] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[21:23:26] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[21:23:27] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[21:23:27] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_the_end
+[21:23:27] [Server thread/INFO]: Time elapsed: 1840 ms
+[21:23:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[21:23:28] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:23:28] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:23:28] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[21:23:28] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[21:23:28] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[21:23:28] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
+[21:23:28] [Server thread/INFO]: [Essentials] Using locale en
+[21:23:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:23:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:23:28] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[21:23:28] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[21:23:28] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[21:23:28] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[21:23:28] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[21:23:28] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[21:23:28] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
+[21:23:28] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[21:23:28] [Server thread/ERROR]: [EssentialsGeoIP] Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (A rendszer nem találja a megadott fájlt)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_45]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_45]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[?:1.8.0_45]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:158) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:470) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:384) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:482) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:298) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:885) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[21:23:28] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[21:23:28] [Server thread/INFO]: Done (13.527s)! For help, type "help"
+[21:23:28] [Server thread/INFO]: Timings Reset
+[21:23:28] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[21:23:29] [User Authenticator #2/INFO]: UUID of player Rougin is dfe5515c-b7cb-3868-bd71-409b71d503da
+[21:23:29] [User Authenticator #1/INFO]: UUID of player petaki is b5860217-0ccd-313e-a23e-4938ab857376
+[21:23:29] [Server thread/INFO]: Rougin[/46.139.221.28:55067] logged in with entity id 306 at ([OffoschWorld1]-71.02350708019158, 71.0, -171.1392387083279)
+[21:23:30] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[21:23:30] [Server thread/INFO]: petaki[/127.0.0.1:52548] logged in with entity id 307 at ([OffoschWorld1]-55.14850003031895, 68.0, -135.45863680876957)
+[21:23:30] [Craft Scheduler Thread - 0/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 11
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2894/256772189.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[21:23:50] [Server thread/INFO]: petaki issued server command: /gamerule keepInventory
+[21:23:52] [Server thread/INFO]: petaki issued server command: /gamerule keepInventory false
+[21:23:52] [Server thread/INFO]: [petaki: Gamerule keepInventory is now set to: false]
+[21:24:01] [Server thread/INFO]: petaki issued server command: /suicide
+[21:24:01] [Server thread/INFO]: petaki died
+[21:24:30] [Server thread/INFO]: Rougin issued server command: /afk
+[21:24:30] [Server thread/INFO]: [Essentials] Rougin was denied access to command.
+[21:24:36] [Server thread/INFO]: Stopping the server
+[21:24:36] [Server thread/INFO]: Stopping server
+[21:24:36] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.0
+[21:24:36] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[21:24:36] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[21:24:36] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
+[21:24:36] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[21:24:36] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[21:24:36] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[21:24:36] [Server thread/INFO]: Saving players
+[21:24:36] [Server thread/INFO]: Rougin lost connection: Server closed
+[21:24:36] [Server thread/INFO]: Rougin left the game
+[21:24:36] [Server thread/INFO]: petaki lost connection: Server closed
+[21:24:36] [Server thread/INFO]: petaki left the game
+[21:24:36] [Server thread/INFO]: Saving worlds
+[21:24:36] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
+[21:24:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[21:24:38] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
+[21:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:39] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
+[21:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[21:24:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
