@@ -374,6 +374,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2020-03-14 15:43:43 +0100",
+      "sweet_berries": "2020-03-14 21:37:23 +0100",
       "cooked_beef": "2020-03-14 17:39:50 +0100",
       "beef": "2020-03-14 17:19:50 +0100",
       "apple": "2020-03-14 21:04:52 +0100",
@@ -1724,6 +1725,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-14 18:42:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-03-14 21:45:25 +0100"
     },
     "done": true
   },

@@ -1,15 +1,15 @@
 lastAccountName: Szemes_Erno
 timestamps:
-  login: 1584196994418
-  logout: 1584216163142
+  login: 1584225485821
+  logout: 1584225475916
 ipAddress: 31.46.250.109
 afk: false
 mail:
 - §6[§rpetaki§6] §rtest
 logoutlocation:
-  world: OffoschWorld1
-  x: -53.75510009190283
-  y: 68.0
-  z: -140.78157475043116
-  yaw: 117.34485
-  pitch: 28.530382
+  world: OffoschWorld1_nether
+  x: 335.8145767661838
+  y: 69.0
+  z: -347.558017075858
+  yaw: 87.36426
+  pitch: 3.140732
