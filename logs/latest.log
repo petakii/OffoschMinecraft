@@ -1,117 +1,507 @@
-[00:02:57] [Server thread/INFO]: bende was blown up by Creeper
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -16.386809940553242,2.0,-12.111569393266109
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -16.856781868832073,2.0,-12.452697687670707
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -17.352467224623837,2.0,-12.790300755381395
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -17.86704677521626,2.0,-13.117617512006063
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -18.39766072321944,3.0,-13.428857715221284
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -18.94066275811774,3.0,-13.724098212925583
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -19.490968454009796,3.0,-14.009409650294629
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -20.045850010528525,3.0,-14.288036769063183
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -20.601837158899585,3.0,-14.565826655514684
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -21.149828363565675,2.9231679985046384,-14.859173776137595
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -21.467180761555138,2.772546541336993,-15.032089760177541
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -21.762119977847444,2.5510576895623984,-15.212016705192127
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -22.036393914813566,2.261507790682643,-15.398499282299554
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -22.292238555145467,1.906592060890901,-15.590828172275678
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -22.53164794826531,1.4888989858694543,-15.78837080421863
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -22.756400387499028,1.0109145473159629,-15.990563051381287
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -22.978530098632312,1.0,-16.190013893038667
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -23.392568120534552,1.0,-16.56038341553881
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -23.827001058879834,1.0,-16.954431408101755
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -24.269260089923293,0.9231679985046384,-17.364452144404595
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -24.52683079996563,0.7725465413369932,-17.6038196668801
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -24.766121628176826,0.5510576895623984,-17.84396680298778
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -24.988972206160174,0.26150779068264285,-18.084858485004133
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -25.196809493517698,0.0,-18.326535981037523
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -25.458976583442777,0.0,-18.81496001321443
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -25.662406381756128,0.0,-19.35268499546487
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -25.83005380961991,0.0,-19.917748659116114
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -25.97855480447963,0.0,-20.49744070611041
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.116810924777564,0.0,-21.08496010937324
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.247403091353554,0.0,-21.677121436014204
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.369546526719084,0.0,-22.27261732783677
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.481307650967082,0.0,-22.870933395123302
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.583862890603868,0.0,-23.471339740108988
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.68001383307735,0.0,-24.073086100934916
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.772011775710887,0.0,-24.675655394299156
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.863239628346196,0.0,-25.278451330116468
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -26.955533254273643,0.0,-25.88114315202256
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -27.052046158801012,1.0,-26.4831885437236
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -27.155954460511506,1.0,-27.083973201692743
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -27.193544073657737,2.0,-27.684083266178504
-[00:04:07] [Server thread/WARN]: Horse (vehicle of Rougin) moved too quickly! -27.193544073657737,2.0,-28.28383236914101
-[00:05:22] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:23] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:05:48] [Server thread/INFO]: petaki issued server command: /balance
-[00:05:50] [Server thread/INFO]: petaki issued server command: /balancetop
-[00:05:57] [Server thread/INFO]: petaki issued server command: /bal
-[00:06:38] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:06:39] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:08:03] [Async Chat Thread - #6/INFO]: <petaki> CAN I HAZ TEH TAIL THING
-[00:09:26] [Server thread/ERROR]: Block at -1 253, 60, 63 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@467d3f2c. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[00:09:32] [Async Chat Thread - #7/INFO]: <petaki> POWAAAAAAH
-[00:10:06] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:11:03] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[00:11:06] [Server thread/INFO]: Made petaki a server operator
-[00:11:35] [Server thread/INFO]: petaki issued server command: /gamerule doFireTick
-[00:11:57] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:12:51] [Server thread/ERROR]: Block at -1 705, 61, 529 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@68deaf65. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[00:13:03] [Server thread/INFO]: petaki issued server command: /time
-[00:13:05] [Async Chat Thread - #8/INFO]: <petaki> 11:03
-[00:13:50] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
-[00:14:05] [Server thread/INFO]: petaki issued server command: /protect
-[00:15:28] [Server thread/INFO]: Stopping the server
-[00:15:28] [Server thread/INFO]: Stopping server
-[00:15:28] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.0
-[00:15:28] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
-[00:15:28] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
-[00:15:28] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
-[00:15:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[00:15:28] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
-[00:15:28] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
-[00:15:28] [Server thread/INFO]: Saving players
-[00:15:28] [Server thread/INFO]: petaki lost connection: Server closed
-[00:15:28] [Server thread/INFO]: petaki left the game
-[00:15:28] [Server thread/INFO]: róka lost connection: Server closed
-[00:15:28] [Server thread/INFO]: róka left the game
-[00:15:28] [Server thread/INFO]: Rougin lost connection: Server closed
-[00:15:28] [Server thread/INFO]: Rougin left the game
-[00:15:28] [Server thread/INFO]: Denxy lost connection: Server closed
-[00:15:28] [Server thread/INFO]: Denxy left the game
-[00:15:28] [Server thread/INFO]: BuThor lost connection: Server closed
-[00:15:28] [Server thread/INFO]: BuThor left the game
-[00:15:28] [Server thread/INFO]: Szemes_Erno lost connection: Server closed
-[00:15:28] [Server thread/INFO]: Szemes_Erno left the game
-[00:15:28] [Server thread/INFO]: Kecs0 lost connection: Server closed
-[00:15:28] [Server thread/INFO]: Kecs0 left the game
-[00:15:28] [Server thread/INFO]: bende lost connection: Server closed
-[00:15:28] [Server thread/INFO]: bende left the game
-[00:15:29] [Server thread/INFO]: Saving worlds
-[00:15:29] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
-[00:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
-[00:15:42] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
-[00:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:15:42] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
-[00:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:15:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
-[00:15:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:15:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:20:30] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[00:20:30] [Server thread/INFO]: Loading properties
+[00:20:30] [Server thread/INFO]: This server is running Paper version git-Paper-133 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[00:20:31] [Server thread/INFO]: Debug logging is disabled
+[00:20:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:20:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:20:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:20:31] [Server thread/INFO]: Generating keypair
+[00:20:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:20:31] [Server thread/INFO]: Using default channel type
+[00:20:39] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[00:20:39] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[00:20:39] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[00:20:39] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[00:20:39] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[00:20:39] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
+[00:20:39] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.loadCustomPermissions(CraftServer.java:924) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:377) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:235) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:885) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:20:39] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[00:20:39] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[00:20:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:20:39] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:20:39] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[00:20:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:20:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:20:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:20:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:20:39] [Server thread/INFO]: Preparing level "OffoschWorld1"
+[00:20:42] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[00:20:43] [Server thread/INFO]: Loaded 6 recipes
+[00:20:44] [Server thread/INFO]: -------- World Settings For [OffoschWorld1] --------
+[00:20:44] [Server thread/INFO]: View Distance: 10
+[00:20:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:20:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:20:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:20:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:20:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:20:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:20:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:20:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:20:44] [Server thread/INFO]: Mob Spawn Range: 8
+[00:20:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:20:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:20:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:20:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:20:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:20:44] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_nether] --------
+[00:20:44] [Server thread/INFO]: View Distance: 10
+[00:20:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:20:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:20:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:20:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:20:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:20:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:20:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:20:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:20:44] [Server thread/INFO]: Mob Spawn Range: 8
+[00:20:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:20:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:20:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:20:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:20:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:20:44] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_the_end] --------
+[00:20:44] [Server thread/INFO]: View Distance: 10
+[00:20:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:20:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:20:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:20:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:20:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:20:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:20:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:20:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:20:44] [Server thread/INFO]: Mob Spawn Range: 8
+[00:20:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:20:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:20:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:20:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:20:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:20:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:20:45] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1'/minecraft:overworld
+[00:20:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:47] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:47] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:48] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:48] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:49] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:20:49] [Server thread/INFO]: Preparing spawn area: 42%
+[00:20:50] [Server thread/INFO]: Preparing spawn area: 100%
+[00:20:50] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1
+[00:20:50] [Server thread/INFO]: Time elapsed: 5334 ms
+[00:20:50] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_nether'/minecraft:the_nether
+[00:20:50] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:51] [Server thread/INFO]: Preparing spawn area: 84%
+[00:20:51] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_nether
+[00:20:51] [Server thread/INFO]: Time elapsed: 965 ms
+[00:20:51] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_the_end'/minecraft:the_end
+[00:20:51] [Server thread/INFO]: Preparing spawn area: 0%
+[00:20:51] [Server thread/INFO]: Preparing spawn area: 100%
+[00:20:52] [Server-Worker-4/INFO]: Preparing spawn area: 100%
+[00:20:52] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[00:20:53] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_the_end
+[00:20:53] [Server thread/INFO]: Time elapsed: 1759 ms
+[00:20:53] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[00:20:53] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:20:53] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:20:53] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[00:20:53] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[00:20:53] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[00:20:53] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
+[00:20:53] [Server thread/INFO]: [Essentials] Using locale en
+[00:20:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:20:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:20:53] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[00:20:53] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[00:20:53] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[00:20:53] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[00:20:53] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[00:20:53] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[00:20:53] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[00:20:53] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
+[00:20:53] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[00:20:53] [Server thread/ERROR]: [EssentialsGeoIP] Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (A rendszer nem találja a megadott fájlt)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_45]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_45]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[?:1.8.0_45]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:158) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:470) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:384) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:482) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:298) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:885) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:20:53] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[00:20:54] [Server thread/INFO]: Done (14.623s)! For help, type "help"
+[00:20:54] [Server thread/INFO]: Timings Reset
+[00:20:54] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
+[00:20:54] [User Authenticator #3/INFO]: UUID of player róka is e6d54b2f-9e1e-33fd-8b85-db70cbb745a4
+[00:20:54] [User Authenticator #1/INFO]: UUID of player bende is 17b2943b-99d2-36df-aff9-1e501984c129
+[00:20:54] [User Authenticator #2/INFO]: UUID of player petaki is b5860217-0ccd-313e-a23e-4938ab857376
+[00:20:55] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
+[00:20:55] [Server thread/INFO]: petaki[/127.0.0.1:58895] logged in with entity id 417 at ([OffoschWorld1]-46.746351802008824, 67.0, -135.6795251244946)
+[00:20:55] [Server thread/INFO]: bende[/88.132.180.27:54290] logged in with entity id 418 at ([OffoschWorld1]29.91107140121756, 8.0, -222.86903425866979)
+[00:20:56] [Server thread/INFO]: róka[/145.236.36.147:64253] logged in with entity id 419 at ([OffoschWorld1]-67.87871303845496, 64.0, -138.224858606367)
+[00:20:56] [Craft Scheduler Thread - 7/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 17
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:20:56] [Craft Scheduler Thread - 5/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 14
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:20:56] [User Authenticator #2/INFO]: UUID of player Rougin is dfe5515c-b7cb-3868-bd71-409b71d503da
+[00:20:57] [Server thread/INFO]: Rougin[/46.139.221.28:55812] logged in with entity id 425 at ([OffoschWorld1]1881.6053962160288, 70.0, -1998.5142444349888)
+[00:20:57] [Craft Scheduler Thread - 6/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 24
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
+[00:21:05] [User Authenticator #2/INFO]: UUID of player Denxy is 9425239c-cf72-3da2-bc82-9463ab4050df
+[00:21:06] [Server thread/INFO]: Denxy[/77.111.249.185:50105] logged in with entity id 550 at ([OffoschWorld1]-1956.5549965182845, 88.0, 438.05485819583464)
+[00:21:06] [Craft Scheduler Thread - 0/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 28
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:21:08] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:21:08] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:21:17] [User Authenticator #2/INFO]: UUID of player BuThor is 508ebdb2-d40d-3c01-8411-b4cd46a36a76
+[00:21:18] [Server thread/INFO]: BuThor[/92.81.95.106:64422] logged in with entity id 798 at ([OffoschWorld1]-52.311532033423724, 61.0, -138.9629828863373)
+[00:21:18] [Craft Scheduler Thread - 0/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 32
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:21:24] [Server thread/WARN]: petaki moved wrongly!
+[00:21:29] [User Authenticator #2/INFO]: UUID of player Kecs0 is ce4cb1e4-bace-3ccf-8adc-3d7dfb930b4e
+[00:21:30] [Server thread/INFO]: Kecs0[/188.156.37.158:53637] logged in with entity id 828 at ([OffoschWorld1]-59.72095142783089, 61.0, -138.51643053093417)
+[00:21:30] [Craft Scheduler Thread - 0/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 36
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:21:36] [Server thread/INFO]: petaki issued server command: /gc
+[00:21:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9595ms or 191 ticks behind
+[00:21:56] [User Authenticator #2/INFO]: UUID of player Szemes_Erno is 7a94548d-7588-363d-9200-80ad69412fd7
+[00:21:56] [Server thread/INFO]: Szemes_Erno[/31.46.250.109:56245] logged in with entity id 1195 at ([OffoschWorld1]-39.49030210509584, 64.0, -125.59538561049487)
+[00:21:56] [Craft Scheduler Thread - 8/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 40
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:22:26] [Server thread/INFO]: Szemes_Erno lost connection: Timed out
+[00:22:26] [Server thread/INFO]: Szemes_Erno left the game
+[00:22:41] [User Authenticator #2/INFO]: UUID of player Szemes_Erno is 7a94548d-7588-363d-9200-80ad69412fd7
+[00:22:41] [Server thread/INFO]: Szemes_Erno[/31.46.250.109:56249] logged in with entity id 1990 at ([OffoschWorld1]-39.49030210509584, 64.0, -125.59538561049487)
+[00:22:41] [Craft Scheduler Thread - 13/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 45
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:23:13] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:24:04] [Server thread/INFO]: petaki issued server command: /time
+[00:24:36] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:25:23] [Server thread/INFO]: róka lost connection: Disconnected
+[00:25:23] [Server thread/INFO]: róka left the game
+[00:26:57] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:26:58] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:27:07] [Server thread/INFO]: petaki has made the advancement [Ice Bucket Challenge]
+[00:27:29] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:27:31] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:28:07] [Server thread/INFO]: petaki issued server command: /gc
+[00:28:11] [Async Chat Thread - #0/INFO]: <petaki> ./gc
+[00:28:11] [Server thread/INFO]: Szemes_Erno issued server command: /tps
+[00:28:15] [Server thread/INFO]: Szemes_Erno issued server command: /gc
+[00:28:15] [Server thread/INFO]: [Essentials] Szemes_Erno was denied access to command.
+[00:28:15] [Server thread/INFO]: petaki issued server command: /gc
+[00:28:16] [Server thread/INFO]: Denxy issued server command: /gc
+[00:28:16] [Server thread/INFO]: [Essentials] Denxy was denied access to command.
+[00:28:17] [Server thread/INFO]: BuThor issued server command: /gc
+[00:28:17] [Server thread/INFO]: [Essentials] BuThor was denied access to command.
+[00:28:19] [Server thread/INFO]: bende issued server command: /gc
+[00:28:19] [Server thread/INFO]: [Essentials] bende was denied access to command.
+[00:28:20] [Async Chat Thread - #0/INFO]: <Kecs0> ./GC
+[00:28:20] [Async Chat Thread - #0/INFO]: <~Buffó> ./gc
+[00:28:27] [Server thread/INFO]: petaki issued server command: /ping
+[00:28:33] [Server thread/INFO]: Szemes_Erno issued server command: /ping
+[00:28:33] [Server thread/INFO]: BuThor issued server command: /ping
+[00:28:34] [Server thread/INFO]: Kecs0 issued server command: /ping
+[00:28:35] [Server thread/INFO]: Denxy issued server command: /ping
+[00:28:37] [Server thread/INFO]: Rougin issued server command: /pingú
+[00:28:38] [Server thread/INFO]: Kecs0 issued server command: /gc
+[00:28:38] [Server thread/INFO]: [Essentials] Kecs0 was denied access to command.
+[00:28:40] [Server thread/INFO]: petaki issued server command: /info
+[00:28:41] [Async Chat Thread - #0/INFO]: <~Buffó> pingú
+[00:28:46] [Async Chat Thread - #0/INFO]: <~Buffó> pongú
+[00:28:48] [Server thread/INFO]: petaki issued server command: /about
+[00:28:53] [Async Chat Thread - #0/INFO]: <Szemes_Erno> xd
+[00:29:07] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:29:18] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:31:03] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:31:38] [Server thread/INFO]: petaki issued server command: /time
+[00:33:40] [Server thread/WARN]: e7eb27c7-e4a6-43b1-8408-35bc54936942 (vehicle of Rougin) moved wrongly!
+[00:33:55] [Async Chat Thread - #1/INFO]: <petaki> -58 67 -141
+[00:35:10] [Server thread/INFO]: Szemes_Erno has made the advancement [Local Brewery]
+[00:35:26] [Async Chat Thread - #2/INFO]: <petaki> You're a lizard, Hairy
+[00:35:48] [Server thread/INFO]: bende has made the advancement [Not Today, Thank You]
+[00:35:52] [Server thread/INFO]: petaki issued server command: /gamemode creative
+[00:38:28] [Server thread/INFO]: petaki issued server command: /gamemode survival
+[00:38:32] [Server thread/INFO]: petaki issued server command: /deop petaki
+[00:38:32] [Server thread/INFO]: [petaki: Made petaki no longer a server operator]
+[00:38:43] [Server thread/WARN]: 44d864f1-a196-4647-97a7-9c6e6bdcaf04 (vehicle of Rougin) moved wrongly!
+[00:38:47] [Server thread/WARN]: Denxy moved wrongly!
+[00:39:07] [Server thread/ERROR]: Block at -683, 59, 1 393 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@50586b99. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[00:40:14] [Async Chat Thread - #3/INFO]: <petaki> shiny hoofy fur
+[00:41:25] [Server thread/WARN]: 44d864f1-a196-4647-97a7-9c6e6bdcaf04 (vehicle of petaki) moved wrongly!
+[00:41:25] [Server thread/WARN]: 44d864f1-a196-4647-97a7-9c6e6bdcaf04 (vehicle of petaki) moved wrongly!
+[00:42:25] [Server thread/WARN]: Denxy moved wrongly!
+[00:43:05] [Server thread/INFO]: bende lost connection: Disconnected
+[00:43:05] [Server thread/INFO]: bende left the game
+[00:43:08] [User Authenticator #4/INFO]: UUID of player bende is 17b2943b-99d2-36df-aff9-1e501984c129
+[00:43:08] [Server thread/INFO]: bende[/88.132.180.27:54988] logged in with entity id 19314 at ([OffoschWorld1]-55.30000001192092, 63.0, -141.944353739167)
+[00:43:08] [Craft Scheduler Thread - 18/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 52
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[00:44:45] [Server thread/WARN]: Denxy moved wrongly!
+[00:46:36] [Server thread/INFO]: Szemes_Erno issued server command: /help
+[00:46:47] [Server thread/INFO]: Szemes_Erno issued server command: /mail read
+[00:46:48] [Server thread/INFO]: petaki issued server command: /mail
+[00:46:51] [Server thread/INFO]: petaki issued server command: /mail read
+[00:55:43] [Server thread/INFO]: Kecs0 lost connection: Disconnected
+[00:55:43] [Server thread/INFO]: Kecs0 left the game
+[00:56:56] [Server thread/INFO]: petaki issued server command: /time
+[00:57:21] [Server thread/INFO]: BuThor lost connection: Disconnected
+[00:57:21] [Server thread/INFO]: BuThor left the game
+[01:06:30] [Async Chat Thread - #4/INFO]: <petaki> IDK dont eat dat
+[01:07:57] [Async Chat Thread - #5/INFO]: <petaki> BlAsT FuRnaCe
+[01:08:39] [Async Chat Thread - #5/INFO]: <petaki> hear is new kat home
+[01:09:45] [Server thread/WARN]: Rougin moved wrongly!
+[01:10:06] [Server thread/INFO]: petaki issued server command: /hurt
+[01:10:13] [Server thread/INFO]: petaki issued server command: /?
+[01:10:17] [Server thread/INFO]: petaki issued server command: /? 2
+[01:10:21] [Server thread/INFO]: petaki issued server command: /? 3
+[01:10:24] [Server thread/INFO]: petaki issued server command: /? 4
+[01:10:28] [Server thread/INFO]: petaki issued server command: /eco
+[01:10:28] [Server thread/INFO]: [Essentials] petaki was denied access to command.
+[01:10:29] [Server thread/INFO]: petaki issued server command: /eco
+[01:10:29] [Server thread/INFO]: [Essentials] petaki was denied access to command.
+[01:12:20] [Server thread/WARN]: Rougin moved wrongly!
+[01:20:44] [Server thread/INFO]: petaki has made the advancement [Diamonds!]
+[01:23:50] [Async Chat Thread - #6/INFO]: <petaki> -40 15 -104
+[01:26:26] [Server thread/INFO]: bende was slain by Cave Spider
+[01:26:54] [Server thread/INFO]: bende issued server command: /back
+[01:31:58] [Server thread/INFO]: Rougin lost connection: Disconnected
+[01:31:58] [Server thread/INFO]: Rougin left the game
+[01:33:00] [Server thread/INFO]: Szemes_Erno issued server command: /time
+[01:33:24] [Server thread/INFO]: bende fell from a high place
+[01:33:39] [Server thread/INFO]: bende issued server command: /back
+[01:33:39] [Server thread/WARN]: bende moved too quickly! -6.5,-45.0,24.5
+[01:34:04] [Server thread/INFO]: Denxy has made the advancement [Enchanter]
+[01:35:41] [Server thread/INFO]: petaki was slain by Zombie
+[01:35:51] [Async Chat Thread - #7/INFO]: <petaki> -18,7 -92
+[01:37:14] [Server thread/INFO]: bende lost connection: Disconnected
+[01:37:14] [Server thread/INFO]: bende left the game
+[01:37:15] [User Authenticator #5/INFO]: UUID of player bende is 17b2943b-99d2-36df-aff9-1e501984c129
+[01:37:15] [Server thread/INFO]: bende[/88.132.180.27:56507] logged in with entity id 41463 at ([OffoschWorld1]-51.956151078913535, 67.0, -131.37764666585693)
+[01:37:15] [Craft Scheduler Thread - 25/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 62
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:37:40] [Server thread/INFO]: petaki was shot by Skeleton
+[01:37:48] [Server thread/INFO]: petaki issued server command: /back
+[01:43:26] [Server thread/INFO]: bende issued server command: /afk
+[01:45:19] [Server thread/INFO]: Denxy lost connection: Disconnected
+[01:45:19] [Server thread/INFO]: Denxy left the game
+[01:45:28] [User Authenticator #6/INFO]: UUID of player Denxy is 9425239c-cf72-3da2-bc82-9463ab4050df
+[01:45:28] [Server thread/INFO]: Denxy[/77.111.249.185:50322] logged in with entity id 44075 at ([OffoschWorld1]-76.30245217462952, 11.0, 197.25483311314056)
+[01:45:28] [Craft Scheduler Thread - 29/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 67
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$2994/289198068.run(Unknown Source) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[01:47:34] [Server thread/INFO]: Szemes_Erno has made the advancement [The Parrots and the Bats]
+[01:54:36] [Async Chat Thread - #8/INFO]: <petaki> Fuzt diggin'
+[01:54:40] [Async Chat Thread - #8/INFO]: <petaki> Forshun
+[01:54:51] [Async Chat Thread - #8/INFO]: <petaki> Bad spotty meat
+[01:55:03] [Async Chat Thread - #8/INFO]: <petaki> Warm Mutn
+[01:55:10] [Async Chat Thread - #8/INFO]: <petaki> Toasted Piggeh
+[01:55:22] [Async Chat Thread - #8/INFO]: <petaki> Crisp pink nomz
+[01:55:39] [Async Chat Thread - #8/INFO]: <petaki> cooked cluck
+[01:55:50] [Async Chat Thread - #8/INFO]: <petaki> weird water thing
+[01:57:44] [Server thread/WARN]: petaki moved wrongly!
+[01:57:49] [Server thread/WARN]: petaki moved wrongly!
+[01:58:11] [Async Chat Thread - #9/INFO]: <petaki> pangkan
+[01:58:56] [Server thread/INFO]: [Server] asd
+[02:02:27] [Server thread/INFO]: petaki issued server command: /suicide
+[02:02:27] [Server thread/INFO]: petaki died
+[02:02:54] [Server thread/INFO]: petaki issued server command: /op petaki
+[02:02:59] [Server thread/INFO]: Made petaki a server operator
+[02:03:04] [Server thread/INFO]: petaki issued server command: /suicide
+[02:03:04] [Server thread/INFO]: petaki died
+[02:05:08] [Async Chat Thread - #10/INFO]: <petaki> linkth by water car
+[02:07:30] [Server thread/INFO]: Denxy lost connection: Disconnected
+[02:07:30] [Server thread/INFO]: Denxy left the game
+[02:17:35] [Server thread/INFO]: Stopping the server
+[02:17:35] [Server thread/INFO]: Stopping server
+[02:17:35] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.0
+[02:17:37] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[02:17:37] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[02:17:37] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
+[02:17:37] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[02:17:37] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[02:17:37] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[02:17:37] [Server thread/INFO]: Saving players
+[02:17:37] [Server thread/INFO]: Szemes_Erno lost connection: Server closed
+[02:17:37] [Server thread/INFO]: Szemes_Erno left the game
+[02:17:37] [Server thread/INFO]: bende lost connection: Server closed
+[02:17:37] [Server thread/INFO]: bende left the game
+[02:17:37] [Server thread/INFO]: petaki lost connection: Server closed
+[02:17:37] [Server thread/INFO]: petaki left the game
+[02:17:37] [Server thread/INFO]: Saving worlds
+[02:17:37] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
+[02:17:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[02:17:38] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
+[02:17:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:17:38] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
+[02:17:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:17:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[02:17:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:17:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

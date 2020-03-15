@@ -1512,6 +1512,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2020-03-15 00:41:27 +0100",
       "sweet_berries": "2020-03-14 22:27:43 +0100",
       "cooked_beef": "2020-03-14 18:07:59 +0100",
       "bread": "2020-03-14 16:37:06 +0100",
@@ -1605,15 +1606,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2020-03-14 23:55:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2020-03-14 23:54:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2020-03-14 23:55:51 +0100"
     },
     "done": true
   },
@@ -2004,6 +2005,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-03-14 16:37:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-03-15 00:35:10 +0100"
     },
     "done": true
   },
@@ -2424,6 +2431,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2020-03-14 23:36:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-03-15 00:35:10 +0100"
     },
     "done": true
   },

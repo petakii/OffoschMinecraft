@@ -1,7 +1,7 @@
 lastAccountName: róka
 timestamps:
-  login: 1584221475815
-  logout: 1584221222712
+  login: 1584228056529
+  logout: 1584228323674
 ipAddress: 145.236.36.147
 lastlocation:
   world: OffoschWorld1
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: OffoschWorld1
-  x: -73.30000001192093
-  y: 11.0
-  z: -717.404277818852
-  yaw: 358.5818
-  pitch: 8.536449
+  x: -60.700000025331974
+  y: 68.0000002
+  z: -142.70000002533197
+  yaw: 162.66638
+  pitch: 31.650005

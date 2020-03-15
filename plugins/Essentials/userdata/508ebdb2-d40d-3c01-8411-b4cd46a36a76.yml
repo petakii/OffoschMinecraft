@@ -1,7 +1,7 @@
 lastAccountName: BuThor
 timestamps:
-  login: 1584224967974
-  logout: 1584224334211
+  login: 1584228078385
+  logout: 1584230241055
 ipAddress: 92.81.95.106
 lastlocation:
   world: OffoschWorld1
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: OffoschWorld1
-  x: 26.10945132640618
-  y: 62.0
-  z: -104.69999998807907
-  yaw: -254.1582
-  pitch: 27.999636
+  x: -33.15367343008849
+  y: 65.0
+  z: -127.91699786359641
+  yaw: -68.90625
+  pitch: 15.4187

@@ -1,7 +1,7 @@
 lastAccountName: Rougin
 timestamps:
-  login: 1584222531738
-  logout: 1584222521313
+  login: 1584228057933
+  logout: 1584232318055
 ipAddress: 46.139.221.28
 lastlocation:
   world: OffoschWorld1
@@ -12,10 +12,10 @@ lastlocation:
   pitch: 46.200287
 logoutlocation:
   world: OffoschWorld1
-  x: -148.69999998807907
-  y: 137.0
-  z: -95.30000001192093
-  yaw: 263.20868
-  pitch: 38.550083
+  x: -54.57795017718152
+  y: 73.0
+  z: -141.48750001192093
+  yaw: -353.48102
+  pitch: 29.999508
 nickname: Buffó
 afk: false
