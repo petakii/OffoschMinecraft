@@ -1,8 +1,8 @@
 lastAccountName: Denxy
 timestamps:
-  login: 1584233128647
-  logout: 1584234450850
-ipAddress: 77.111.249.185
+  login: 1584235599118
+  logout: 1584235922384
+ipAddress: 77.111.249.182
 lastlocation:
   world: OffoschWorld1
   x: -29.5
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: OffoschWorld1
-  x: -58.162269648768174
-  y: 61.5625
-  z: -138.37242977181026
-  yaw: -118.21216
-  pitch: -9.599764
+  x: -54.982161204614734
+  y: 68.0
+  z: -136.02324790954532
+  yaw: -3.7628174
+  pitch: 47.549812
