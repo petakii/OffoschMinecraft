@@ -1,7 +1,7 @@
 lastAccountName: bende
 timestamps:
-  login: 1584232635541
-  logout: 1584232634052
+  login: 1584274365003
+  logout: 1584274372794
   lastteleport: 1584232419502
 ipAddress: 88.132.180.27
 lastlocation:
@@ -13,9 +13,9 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: OffoschWorld1
-  x: -51.956151078913535
-  y: 67.0
-  z: -131.37764666585693
-  yaw: -85.1026
-  pitch: 18.149733
-afk: true
+  x: -53.621514812336606
+  y: 73.0
+  z: -143.76457260608427
+  yaw: -144.66327
+  pitch: 0.0
+afk: false
