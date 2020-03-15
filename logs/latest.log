@@ -1,247 +1,494 @@
-[12:58:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[12:58:17] [Server thread/INFO]: Loading properties
-[12:58:18] [Server thread/INFO]: This server is running Paper version git-Paper-133 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[12:58:18] [Server thread/INFO]: Debug logging is disabled
-[12:58:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:58:18] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:58:18] [Server thread/INFO]: Default game type: SURVIVAL
-[12:58:18] [Server thread/INFO]: Generating keypair
-[12:58:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:58:19] [Server thread/INFO]: Using default channel type
-[12:58:21] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[12:58:26] [Server thread/WARN]: Legacy plugin sleep-most v4.1.1 does not specify an api-version.
-[12:58:26] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.94
-[12:58:27] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
-[12:58:27] [Server thread/INFO]: [InvSort] Loading InvSort v1.1.0
-[12:58:27] [Server thread/INFO]: [sleep-most] Loading sleep-most v4.1.1
-[12:58:27] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
-[12:58:27] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
-[12:58:27] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
-[12:58:27] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
-[12:58:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:58:27] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.94
-[12:58:27] [Server thread/INFO]:         __    
-[12:58:27] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.94
-[12:58:27] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[12:58:27] [Server thread/INFO]: 
-[12:58:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[12:58:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[12:58:27] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[12:58:28] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[12:58:28] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 853ms)
-[12:58:28] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
-[12:58:28] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
-[12:58:28] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[12:58:28] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[12:58:28] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
-[12:58:28] [Server thread/WARN]: [LuckPerms] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
-[12:58:28] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[12:58:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:58:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:58:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:58:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:58:28] [Server thread/INFO]: Preparing level "OffoschWorld1"
-[12:58:28] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[12:58:28] [Server thread/INFO]: Loaded 6 recipes
-[12:58:28] [Server thread/INFO]: -------- World Settings For [OffoschWorld1] --------
-[12:58:28] [Server thread/INFO]: View Distance: 10
-[12:58:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:58:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:58:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:58:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[12:58:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:58:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:58:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[12:58:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[12:58:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[12:58:28] [Server thread/INFO]: Max TNT Explosions: 100
-[12:58:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:58:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:58:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[12:58:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:58:28] [Server thread/INFO]: Mob Spawn Range: 8
-[12:58:29] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_nether] --------
-[12:58:29] [Server thread/INFO]: View Distance: 10
-[12:58:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:58:29] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:58:29] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:58:29] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[12:58:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:58:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:58:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[12:58:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[12:58:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[12:58:29] [Server thread/INFO]: Max TNT Explosions: 100
-[12:58:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:58:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:58:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Potato Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:58:29] [Server thread/INFO]: Mob Spawn Range: 8
-[12:58:29] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_the_end] --------
-[12:58:29] [Server thread/INFO]: View Distance: 10
-[12:58:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:58:29] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:58:29] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:58:29] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[12:58:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:58:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:58:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
-[12:58:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[12:58:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[12:58:29] [Server thread/INFO]: Max TNT Explosions: 100
-[12:58:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:58:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:58:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Potato Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Vine Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[12:58:29] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:58:29] [Server thread/INFO]: Mob Spawn Range: 8
-[12:58:29] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1'/minecraft:overworld
-[12:58:29] [Server thread/INFO]: Preparing spawn area: 0%
-[12:58:29] [Server thread/INFO]: Preparing spawn area: 4%
-[12:58:30] [Server thread/INFO]: Preparing spawn area: 33%
-[12:58:30] [Server thread/INFO]: Preparing spawn area: 55%
-[12:58:31] [Server thread/INFO]: Preparing spawn area: 85%
-[12:58:31] [Server thread/INFO]: Preparing spawn area: 100%
-[12:58:31] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1
-[12:58:31] [Server thread/INFO]: Time elapsed: 2837 ms
-[12:58:31] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_nether'/minecraft:the_nether
-[12:58:32] [Server thread/INFO]: Preparing spawn area: 0%
-[12:58:32] [Server thread/INFO]: Preparing spawn area: 31%
-[12:58:32] [Server thread/INFO]: Preparing spawn area: 100%
-[12:58:33] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_nether
-[12:58:33] [Server thread/INFO]: Time elapsed: 1486 ms
-[12:58:33] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_the_end'/minecraft:the_end
-[12:58:33] [Server thread/INFO]: Preparing spawn area: 0%
-[12:58:33] [Server-Worker-3/INFO]: Preparing spawn area: 100%
-[12:58:34] [Server-Worker-5/INFO]: Preparing spawn area: 100%
-[12:58:34] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_the_end
-[12:58:34] [Server thread/INFO]: Time elapsed: 1098 ms
-[12:58:34] [Server thread/INFO]: [InvSort] Enabling InvSort v1.1.0
-[12:58:34] [Server thread/INFO]: [sleep-most] Enabling sleep-most v4.1.1*
-[12:58:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
-[12:58:34] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[12:58:34] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[12:58:34] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[12:58:34] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
-[12:58:34] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[12:58:34] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
-[12:58:34] [Server thread/INFO]: [Essentials] Using locale en
-[12:58:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[12:58:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[12:58:34] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
-[12:58:35] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[12:58:35] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
-[12:58:35] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
-[12:58:35] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
-[12:58:35] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
-[12:58:35] [Server thread/ERROR]: [EssentialsGeoIP] Failed to read GeoIP database!
-java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (A rendszer nem találja a megadott fájlt)
-	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_45]
-	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_45]
-	at java.io.RandomAccessFile.<init>(Unknown Source) ~[?:1.8.0_45]
-	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
-	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
-	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
-	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
-	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:158) ~[?:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.15.2.jar:git-Paper-133]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) ~[patched_1.15.2.jar:git-Paper-133]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:435) ~[patched_1.15.2.jar:git-Paper-133]
-	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:470) ~[patched_1.15.2.jar:git-Paper-133]
-	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:384) ~[patched_1.15.2.jar:git-Paper-133]
-	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:482) ~[patched_1.15.2.jar:git-Paper-133]
-	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:298) ~[patched_1.15.2.jar:git-Paper-133]
+[13:17:58] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:17:58] [Server thread/INFO]: Loading properties
+[13:17:58] [Server thread/INFO]: This server is running Paper version git-Paper-133 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[13:17:59] [Server thread/INFO]: Debug logging is disabled
+[13:17:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:17:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:17:59] [Server thread/INFO]: Default game type: SURVIVAL
+[13:17:59] [Server thread/INFO]: Generating keypair
+[13:17:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:17:59] [Server thread/INFO]: Using default channel type
+[13:18:02] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:18:06] [Server thread/WARN]: Legacy plugin dynmap v2.5-Dev201706100405 does not specify an api-version.
+[13:18:06] [Server thread/WARN]: Legacy plugin sleep-most v4.1.1 does not specify an api-version.
+[13:18:06] [Server thread/INFO]: [dynmap] Loading dynmap v2.5-Dev201706100405
+[13:18:06] [Server thread/INFO]: [dynmap] version=git-Paper-133 (MC: 1.15.2)
+[13:18:06] [Server thread/ERROR]: [dynmap] Unable to find field biome for org.bukkit.craftbukkit.v1_15_R1.CraftChunkSnapshot
+[13:18:06] [Server thread/ERROR]: [org.bukkit.craftbukkit.v1_15_R1.CraftServer] Error initializing dynmap - bukkit version incompatible! initializing dynmap v2.5-Dev201706100405 (Is it up to date?)
+java.lang.IllegalArgumentException: Error initializing dynmap - bukkit version incompatible!
+	at org.dynmap.bukkit.BukkitVersionHelperGeneric.<init>(BukkitVersionHelperGeneric.java:129) ~[?:?]
+	at org.dynmap.bukkit.BukkitVersionHelperCB.<init>(BukkitVersionHelperCB.java:39) ~[?:?]
+	at org.dynmap.bukkit.BukkitVersionHelper.getHelper(BukkitVersionHelper.java:42) ~[?:?]
+	at org.dynmap.bukkit.DynmapPlugin.onLoad(DynmapPlugin.java:756) ~[?:?]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.loadPlugins(CraftServer.java:363) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:234) ~[patched_1.15.2.jar:git-Paper-133]
 	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:885) ~[patched_1.15.2.jar:git-Paper-133]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[12:58:35] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
-[12:58:35] [Server thread/INFO]: Done (7.075s)! For help, type "help"
-[12:58:35] [Server thread/INFO]: Timings Reset
-[12:58:35] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
-[12:58:36] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
-[13:12:41] [User Authenticator #1/INFO]: UUID of player bende is 17b2943b-99d2-36df-aff9-1e501984c129
-[13:12:44] [Server thread/INFO]: bende[/88.132.180.27:60024] logged in with entity id 298 at ([OffoschWorld1]-53.621514812336606, 73.0, -143.76457260608427)
-[13:12:45] [Craft Scheduler Thread - 8/WARN]: [Essentials] Plugin Essentials v2.17.2.0 generated an exception while executing task 17
-java.lang.NullPointerException: null
-	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.delayedJoin(EssentialsGeoIPPlayerListener.java:80) ~[?:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.lambda$onPlayerJoin$0(EssentialsGeoIPPlayerListener.java:48) ~[?:?]
-	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener$$Lambda$3419/342567742.run(Unknown Source) ~[?:?]
-	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:84) ~[patched_1.15.2.jar:git-Paper-133]
-	at org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) ~[patched_1.15.2.jar:git-Paper-133]
-	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.15.2.jar:git-Paper-133]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_45]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_45]
+[13:18:06] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.94
+[13:18:06] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[13:18:06] [Server thread/INFO]: [InvSort] Loading InvSort v1.1.0
+[13:18:06] [Server thread/INFO]: [sleep-most] Loading sleep-most v4.1.1
+[13:18:06] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[13:18:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[13:18:06] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[13:18:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:18:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.94
+[13:18:06] [Server thread/INFO]:         __    
+[13:18:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.94
+[13:18:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[13:18:06] [Server thread/INFO]: 
+[13:18:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:18:07] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:18:08] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:18:08] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:18:08] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1422ms)
+[13:18:08] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[13:18:08] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[13:18:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:18:08] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:18:08] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[13:18:08] [Server thread/WARN]: [LuckPerms] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[13:18:08] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[13:18:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:18:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:18:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:18:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:18:08] [Server thread/INFO]: Preparing level "OffoschWorld1"
+[13:18:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:18:08] [Server thread/INFO]: Loaded 6 recipes
+[13:18:08] [Server thread/INFO]: -------- World Settings For [OffoschWorld1] --------
+[13:18:08] [Server thread/INFO]: View Distance: 10
+[13:18:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:18:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:18:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:18:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:18:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:18:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:18:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:18:08] [Server thread/INFO]: Mob Spawn Range: 8
+[13:18:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:18:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:18:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:18:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:18:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:18:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:18:08] [Server thread/INFO]: Max TNT Explosions: 100
+[13:18:09] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_nether] --------
+[13:18:09] [Server thread/INFO]: View Distance: 10
+[13:18:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:18:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:18:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:18:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:18:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:18:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:18:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:18:09] [Server thread/INFO]: Mob Spawn Range: 8
+[13:18:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:18:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:18:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:18:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:18:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:18:09] [Server thread/INFO]: Max TNT Explosions: 100
+[13:18:09] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_the_end] --------
+[13:18:09] [Server thread/INFO]: View Distance: 10
+[13:18:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:18:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:18:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:18:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:18:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:18:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:18:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:18:09] [Server thread/INFO]: Mob Spawn Range: 8
+[13:18:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:18:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:18:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:18:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:18:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:18:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:18:09] [Server thread/INFO]: Max TNT Explosions: 100
+[13:18:09] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1'/minecraft:overworld
+[13:18:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:18:09] [Server thread/INFO]: Preparing spawn area: 0%
+[13:18:10] [Server thread/INFO]: Preparing spawn area: 100%
+[13:18:10] [Server thread/INFO]: Preparing spawn area: 100%
+[13:18:10] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1
+[13:18:10] [Server thread/INFO]: Time elapsed: 1603 ms
+[13:18:10] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_nether'/minecraft:the_nether
+[13:18:10] [Server thread/INFO]: Preparing spawn area: 0%
+[13:18:11] [Server thread/INFO]: Preparing spawn area: 100%
+[13:18:11] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_nether
+[13:18:11] [Server thread/INFO]: Time elapsed: 860 ms
+[13:18:11] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_the_end'/minecraft:the_end
+[13:18:11] [Server thread/INFO]: Preparing spawn area: 0%
+[13:18:12] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[13:18:12] [Server-Worker-5/INFO]: Preparing spawn area: 100%
+[13:18:13] [Server thread/INFO]: Preparing spawn area: 100%
+[13:18:13] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_the_end
+[13:18:13] [Server thread/INFO]: Time elapsed: 1504 ms
+[13:18:13] [Server thread/INFO]: [dynmap] Enabling dynmap v2.5-Dev201706100405*
+[13:18:13] [Server thread/INFO]: [dynmap] Dynmap is disabled (unsupported platform)
+[13:18:13] [Server thread/INFO]: [InvSort] Enabling InvSort v1.1.0
+[13:18:13] [Server thread/INFO]: [sleep-most] Enabling sleep-most v4.1.1*
+[13:18:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[13:18:13] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[13:18:13] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[13:18:13] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[13:18:13] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[13:18:13] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[13:18:13] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
+[13:18:13] [Server thread/INFO]: [Essentials] Using locale en
+[13:18:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:18:13] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:18:13] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[13:18:13] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[13:18:13] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[13:18:13] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[13:18:13] [Server thread/INFO]: Done (5.597s)! For help, type "help"
+[13:18:13] [Server thread/INFO]: Timings Reset
+[13:18:14] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[13:18:14] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
+[13:19:10] [Server thread/INFO]: --------- Help: Index ---------------------------
+[13:19:10] [Server thread/INFO]: Use /help [n] to get page n of help.
+[13:19:10] [Server thread/INFO]: Aliases: Lists command aliases
+[13:19:10] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[13:19:10] [Server thread/INFO]: dynmap: All commands for dynmap
+[13:19:10] [Server thread/INFO]: Essentials: All commands for Essentials
+[13:19:10] [Server thread/INFO]: EssentialsSpawn: All commands for EssentialsSpawn
+[13:19:10] [Server thread/INFO]: LuckPerms: All commands for LuckPerms
+[13:19:10] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[13:19:10] [Server thread/INFO]: sleep-most: All commands for sleep-most
+[13:19:10] [Server thread/INFO]: Vault: All commands for Vault
+[13:19:10] [Server thread/INFO]: /advancement: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /afk: Marks you as away-from-keyboard.
+[13:19:10] [Server thread/INFO]: /antioch: A little surprise for operators.
+[13:19:10] [Server thread/INFO]: /back: Teleports you to your location prior to tp/spawn/warp.
+[13:19:10] [Server thread/INFO]: /backup: Runs the backup if configured.
+[13:19:10] [Server thread/INFO]: /balance: States the current balance of a player.
+[13:19:10] [Server thread/INFO]: /balancetop: Gets the top balance values.
+[13:19:10] [Server thread/INFO]: /ban: Bans a player.
+[13:19:10] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /banip: Bans an IP address.
+[13:19:10] [Server thread/INFO]: /banlist: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /beezooka: Throw an exploding bee at your opponent.
+[13:19:10] [Server thread/INFO]: /bigtree: Spawn a big tree where you are looking.
+[13:19:10] [Server thread/INFO]: /book: Allows reopening and editing of sealed books.
+[13:19:10] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /break: Breaks the block you are looking at.
+[13:19:10] [Server thread/INFO]: /broadcast: Broadcasts a message to the entire server.
+[13:19:10] [Server thread/INFO]: /broadcastworld: Broadcasts a message to a world.
+[13:19:10] [Server thread/INFO]: /bukkit:help: Shows the help menu
+[13:19:10] [Server thread/INFO]: /burn: Set a player on fire.
+[13:19:10] [Server thread/INFO]: /clearinventory: Clear all items in your inventory.
+[13:19:10] [Server thread/INFO]: /clearinventoryconfirmtoggle: Toggles whether you are prompted to confirm inventory clears.
+[13:19:10] [Server thread/INFO]: /clone: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /compass: Describes your current bearing.
+[13:19:10] [Server thread/INFO]: /condense: Condenses items into a more compact blocks.
+[13:19:10] [Server thread/INFO]: /createkit: Create a kit in game!
+[13:19:10] [Server thread/INFO]: /customtext: Allows you to create custom text commands.
+[13:19:10] [Server thread/INFO]: /data: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /datapack: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /debug: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /delhome: Removes a home.
+[13:19:10] [Server thread/INFO]: /deljail: Removes a jail.
+[13:19:10] [Server thread/INFO]: /delkit: Deletes the specified kit.
+[13:19:10] [Server thread/INFO]: /delwarp: Deletes the specified warp.
+[13:19:10] [Server thread/INFO]: /deop: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /depth: States current depth, relative to sea level.
+[13:19:10] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /disposal: Opens a portable disposal menu.
+[13:19:10] [Server thread/INFO]: /dmap: List and modify dynmap configuration
+[13:19:10] [Server thread/INFO]: /dmarker: Manipulate map markers
+[13:19:10] [Server thread/INFO]: /dynmap: Controls Dynmap.
+[13:19:10] [Server thread/INFO]: /dynmapexp: Map export commands
+[13:19:10] [Server thread/INFO]: /eco: Manages the server economy.
+[13:19:10] [Server thread/INFO]: /effect: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /enchant: Enchants the item the user is holding.
+[13:19:10] [Server thread/INFO]: /enderchest: Lets you see inside an enderchest.
+[13:19:10] [Server thread/INFO]: /essentials: Reloads essentials.
+[13:19:10] [Server thread/INFO]: /execute: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /exp: Give, set or look at a players exp.
+[13:19:10] [Server thread/INFO]: /experience: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /ext: Extinguish players.
+[13:19:10] [Server thread/INFO]: /feed: Satisfy the hunger.
+[13:19:10] [Server thread/INFO]: /fill: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /fireball: Throw a fireball.
+[13:19:10] [Server thread/INFO]: /firework: Allows you to modify a stack of fireworks.
+[13:19:10] [Server thread/INFO]: /fly: Take off, and soar!
+[13:19:10] [Server thread/INFO]: /forceload: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /function: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /gamemode: Change player gamemode.
+[13:19:10] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /gc: Reports memory, uptime and tick info.
+[13:19:10] [Server thread/INFO]: /getpos: Get your current coordinates or those of a player.
+[13:19:10] [Server thread/INFO]: /give: Give a player an item.
+[13:19:10] [Server thread/INFO]: /god: Enables your godly powers.
+[13:19:10] [Server thread/INFO]: /hat: Get some cool new headgear.
+[13:19:10] [Server thread/INFO]: /heal: Heals you or the given player.
+[13:19:10] [Server thread/INFO]: /help: Views a list of available commands.
+[13:19:10] [Server thread/INFO]: /helpop: Message online admins.
+[13:19:10] [Server thread/INFO]: /home: Teleport to your home.
+[13:19:10] [Server thread/INFO]: /ignore: Ignore or unignore other players.
+[13:19:10] [Server thread/INFO]: /info: Shows information set by the server owner.
+[13:19:10] [Server thread/INFO]: /invsee: See the inventory of other players.
+[13:19:10] [Server thread/INFO]: /item: Spawn an item.
+[13:19:10] [Server thread/INFO]: /itemdb: Searches for an item.
+[13:19:10] [Server thread/INFO]: /itemname: Names an item.
+[13:19:10] [Server thread/INFO]: /jails: List all jails.
+[13:19:10] [Server thread/INFO]: /jump: Jumps to the nearest block in the line of sight.
+[13:19:10] [Server thread/INFO]: /kick: Kicks a specified player with a reason.
+[13:19:10] [Server thread/INFO]: /kickall: Kicks all players off the server except the issuer.
+[13:19:10] [Server thread/INFO]: /kill: Kills specified player.
+[13:19:10] [Server thread/INFO]: /kit: Obtains the specified kit or views all available kits.
+[13:19:10] [Server thread/INFO]: /kittycannon: Throw an exploding kitten at your opponent.
+[13:19:10] [Server thread/INFO]: /lightning: The power of Thor. Strike at cursor or player.
+[13:19:10] [Server thread/INFO]: /list: List all online players.
+[13:19:10] [Server thread/INFO]: /locate: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /loot: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /luckperms: Manage permissions
+[13:19:10] [Server thread/INFO]: /mail: Manages inter-player, intra-server mail.
+[13:19:10] [Server thread/INFO]: /me: Describes an action in the context of the player.
+[13:19:10] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:gamemode: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:lp: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:luckperms: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:luckperms:lp: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:luckperms:luckperms: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:luckperms:perm: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:luckperms:permission: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:luckperms:permissions: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:luckperms:perms: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:pardon: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:perm: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:permission: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:permissions: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:perms: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:teleport: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:w: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /minecraft:xp: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /more: Fills the item stack in hand to maximum size.
+[13:19:10] [Server thread/INFO]: /motd: Views the Message Of The Day.
+[13:19:10] [Server thread/INFO]: /msg: Sends a private message to the specified player.
+[13:19:10] [Server thread/INFO]: /msgtoggle: Blocks receiving all private messages.
+[13:19:10] [Server thread/INFO]: /mute: Mutes or unmutes a player.
+[13:19:10] [Server thread/INFO]: /near: Lists the players near by or around a player.
+[13:19:10] [Server thread/INFO]: /nick: Change your nickname or that of another player.
+[13:19:10] [Server thread/INFO]: /nuke: May death rain upon them.
+[13:19:10] [Server thread/INFO]: /op: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /paper: Paper related commands
+[13:19:10] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /particle: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /pay: Pays another player from your balance.
+[13:19:10] [Server thread/INFO]: /payconfirmtoggle: Toggles whether you are prompted to confirm payments.
+[13:19:10] [Server thread/INFO]: /paytoggle: Toggles whether you are accepting payments.
+[13:19:10] [Server thread/INFO]: /ping: Pong!
+[13:19:10] [Server thread/INFO]: /playsound: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[13:19:10] [Server thread/INFO]: /potion: Adds custom potion effects to a potion.
+[13:19:10] [Server thread/INFO]: /powertool: Assigns a command to the item in hand.
+[13:19:10] [Server thread/INFO]: /powertooltoggle: Enables or disables all current powertools.
+[13:19:10] [Server thread/INFO]: /ptime: Adjust player's client time. Add @ prefix to fix.
+[13:19:10] [Server thread/INFO]: /publish: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /pweather: Adjust a player's weather
+[13:19:10] [Server thread/INFO]: /r: Quickly reply to the last player to message you.
+[13:19:10] [Server thread/INFO]: /realname: Displays the username of a user based on nick.
+[13:19:10] [Server thread/INFO]: /recipe: Displays how to craft items.
+[13:19:10] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[13:19:10] [Server thread/INFO]: /remove: Removes entities in your world.
+[13:19:10] [Server thread/INFO]: /repair: Repairs the durability of one or all items.
+[13:19:10] [Server thread/INFO]: /replaceitem: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /restart: Restarts the server
+[13:19:10] [Server thread/INFO]: /rtoggle: Change whether the recipient of the reply is last recipient or last sender
+[13:19:10] [Server thread/INFO]: /rules: Views the server rules.
+[13:19:10] [Server thread/INFO]: /save-all: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /save-off: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /save-on: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /say: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /schedule: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /seed: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /seen: Shows the last logout time of a player.
+[13:19:10] [Server thread/INFO]: /sell: Sells the item currently in your hand.
+[13:19:10] [Server thread/INFO]: /setblock: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /sethome: Set your home to your current location.
+[13:19:10] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /setjail: Creates a jail where you specified named [jailname].
+[13:19:10] [Server thread/INFO]: /setspawn: Sets the spawn point to your current position.
+[13:19:10] [Server thread/INFO]: /setwarp: Creates a new warp.
+[13:19:10] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /setworth: Set the sell value of an item.
+[13:19:10] [Server thread/INFO]: /showkit: Show contents of a kit.
+[13:19:10] [Server thread/INFO]: /skull: Set the owner of a player skull
+[13:19:10] [Server thread/INFO]: /sleepmost: open the sleepmost help menu
+[13:19:10] [Server thread/INFO]: /socialspy: Toggles if you can see msg/mail commands in chat.
+[13:19:10] [Server thread/INFO]: /spawn: Teleports to the spawn point.
+[13:19:10] [Server thread/INFO]: /spawner: Change the mob type of a spawner.
+[13:19:10] [Server thread/INFO]: /spawnmob: Spawns a mob.
+[13:19:10] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /spectate: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /speed: Change your speed limits.
+[13:19:10] [Server thread/INFO]: /spigot: Spigot related commands
+[13:19:10] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /stop: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /sudo: Make another user perform a command.
+[13:19:10] [Server thread/INFO]: /suicide: Causes you to perish.
+[13:19:10] [Server thread/INFO]: /summon: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /tag: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /team: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /tempban: Temporary ban a user.
+[13:19:10] [Server thread/INFO]: /thunder: Enable/disable thunder.
+[13:19:10] [Server thread/INFO]: /time: Display/Change the world time. Defaults to current world.
+[13:19:10] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[13:19:10] [Server thread/INFO]: /title: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /tm: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /togglejail: Jails/Unjails a player, TPs them to the jail specified.
+[13:19:10] [Server thread/INFO]: /top: Teleport to the highest block at your current position.
+[13:19:10] [Server thread/INFO]: /tp: Teleport to a player.
+[13:19:10] [Server thread/INFO]: /tpa: Request to teleport to the specified player.
+[13:19:10] [Server thread/INFO]: /tpaall: Requests all players online to teleport to you.
+[13:19:10] [Server thread/INFO]: /tpacancel: Cancel all outstanding teleport requests. Specify [player] to cancel requests with them.
+[13:19:10] [Server thread/INFO]: /tpaccept: Accepts a teleport request.
+[13:19:10] [Server thread/INFO]: /tpahere: Request that the specified player teleport to you.
+[13:19:10] [Server thread/INFO]: /tpall: Teleport all online players to another player.
+[13:19:10] [Server thread/INFO]: /tpauto: Automatically accept teleportation requests.
+[13:19:10] [Server thread/INFO]: /tpdeny: Reject a teleport request.
+[13:19:10] [Server thread/INFO]: /tphere: Teleport a player to you.
+[13:19:10] [Server thread/INFO]: /tpo: Teleport override for tptoggle.
+[13:19:10] [Server thread/INFO]: /tpohere: Teleport here override for tptoggle.
+[13:19:10] [Server thread/INFO]: /tppos: Teleport to coordinates.
+[13:19:10] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[13:19:10] [Server thread/INFO]: /tptoggle: Blocks all forms of teleportation.
+[13:19:10] [Server thread/INFO]: /tree: Spawn a tree where you are looking.
+[13:19:10] [Server thread/INFO]: /trigger: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /unban: Unbans the specified player.
+[13:19:10] [Server thread/INFO]: /unbanip: Unbans the specified IP address.
+[13:19:10] [Server thread/INFO]: /unlimited: Allows the unlimited placing of items.
+[13:19:10] [Server thread/INFO]: /vanish: Hide yourself from other players.
+[13:19:10] [Server thread/INFO]: /vault-convert: Converts all data in economy1 and dumps it into economy2
+[13:19:10] [Server thread/INFO]: /vault-info: Displays information about Vault
+[13:19:10] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[13:19:10] [Server thread/INFO]: /warp: List all warps or warp to the specified location.
+[13:19:10] [Server thread/INFO]: /weather: Sets the weather.
+[13:19:10] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /whois: Determine the username behind a nickname.
+[13:19:10] [Server thread/INFO]: /workbench: Opens up a workbench.
+[13:19:10] [Server thread/INFO]: /world: Switch between worlds.
+[13:19:10] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[13:19:10] [Server thread/INFO]: /worth: Calculates the worth of items in hand or as specified.
+[13:19:19] [Server thread/WARN]: Unexpected exception while parsing console command "dynmap"
+org.bukkit.command.CommandException: Unhandled exception executing command 'dynmap' in plugin dynmap v2.5-Dev201706100405
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:752) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:714) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:469) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:431) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:1112) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:934) ~[patched_1.15.2.jar:git-Paper-133]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
-[13:12:52] [Server thread/INFO]: bende lost connection: Disconnected
-[13:12:52] [Server thread/INFO]: bende left the game
-[13:16:03] [Server thread/INFO]: Stopping the server
-[13:16:03] [Server thread/INFO]: Stopping server
-[13:16:03] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.0
-[13:16:03] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
-[13:16:03] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
-[13:16:03] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[13:16:03] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
-[13:16:03] [Server thread/INFO]: [sleep-most] Disabling sleep-most v4.1.1
-[13:16:03] [Server thread/INFO]: [InvSort] Disabling InvSort v1.1.0
-[13:16:03] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
-[13:16:03] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.94
-[13:16:03] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[13:16:03] [Server thread/INFO]: [LuckPerms] Closing storage...
-[13:16:04] [Server thread/INFO]: [LuckPerms] Goodbye!
-[13:16:04] [Server thread/INFO]: Saving players
-[13:16:04] [Server thread/INFO]: Saving worlds
-[13:16:04] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
-[13:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
-[13:16:04] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
-[13:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:16:04] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
-[13:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:16:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
-[13:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:16:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+Caused by: java.lang.NullPointerException
+	at org.dynmap.bukkit.DynmapPlugin.onCommand(DynmapPlugin.java:937) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[patched_1.15.2.jar:git-Paper-133]
+	... 8 more
+[13:19:46] [Server thread/INFO]: Stopping the server
+[13:19:46] [Server thread/INFO]: Stopping server
+[13:19:46] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[13:19:46] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[13:19:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[13:19:46] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[13:19:46] [Server thread/INFO]: [sleep-most] Disabling sleep-most v4.1.1
+[13:19:46] [Server thread/INFO]: [InvSort] Disabling InvSort v1.1.0
+[13:19:46] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[13:19:46] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.94
+[13:19:46] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[13:19:46] [Server thread/INFO]: [LuckPerms] Closing storage...
+[13:19:47] [Server thread/INFO]: [LuckPerms] Goodbye!
+[13:19:47] [Server thread/INFO]: [dynmap] Disabling dynmap v2.5-Dev201706100405
+[13:19:47] [Server thread/ERROR]: Error occurred while disabling dynmap v2.5-Dev201706100405 (Is it up to date?)
+java.lang.NullPointerException: null
+	at org.dynmap.bukkit.DynmapPlugin.onDisable(DynmapPlugin.java:902) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:372) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:468) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:454) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:447) ~[patched_1.15.2.jar:git-Paper-133]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.disablePlugins(CraftServer.java:404) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.stop(MinecraftServer.java:742) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.stop(DedicatedServer.java:752) ~[patched_1.15.2.jar:git-Paper-133]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:974) ~[patched_1.15.2.jar:git-Paper-133]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_45]
+[13:19:47] [Server thread/INFO]: Saving players
+[13:19:47] [Server thread/INFO]: Saving worlds
+[13:19:47] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
+[13:19:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[13:19:48] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
+[13:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:19:49] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
+[13:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:19:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[13:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:19:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
