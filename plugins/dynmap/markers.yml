@@ -1,0 +1,59 @@
+%YAML 1.1
+---
+icons: {
+    }
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            marker_1:
+                world: OffoschWorld1
+                markup: false
+                x: -56.0
+                icon: default
+                y: 69.0
+                z: -142.0
+                label: Home
+            marker_2:
+                world: OffoschWorld1
+                markup: false
+                x: -144.0
+                icon: default
+                y: 186.0
+                z: -96.0
+                label: Afkoló
+            marker_3:
+                world: OffoschWorld1
+                markup: false
+                x: -50.0
+                icon: default
+                y: 186.0
+                z: -154.0
+                label: Ugródeszka
+            marker_4:
+                world: OffoschWorld1
+                markup: false
+                x: -830.0
+                icon: default
+                y: 66.0
+                z: -854.0
+                label: Pillager tower 1
+            marker_5:
+                world: OffoschWorld1
+                markup: false
+                x: -157.0
+                icon: default
+                y: 100.0
+                z: -446.0
+                label: Lámák
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }
