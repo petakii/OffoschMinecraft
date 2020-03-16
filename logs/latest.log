@@ -1,132 +1,246 @@
-[00:00:03] [Server thread/INFO]: petaki has made the advancement [The Parrots and the Bats]
-[00:00:44] [Async Chat Thread - #28/INFO]: <róka> geci
-[00:02:59] [Async Chat Thread - #29/INFO]: <róka> FÖLD
-[00:03:06] [Async Chat Thread - #29/INFO]: <róka> anyád
-[00:05:23] [Server thread/WARN]: petaki moved wrongly!
-[00:11:35] [Async Chat Thread - #30/INFO]: <petaki> https://www.youtube.com/watch?v=8uZfjraLNlE
-[00:11:42] [Async Chat Thread - #30/INFO]: <róka> szlííííííp
-[00:17:36] [Async Chat Thread - #31/INFO]: <róka> CIGÁNY HÓKUPAC
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 17.74354979542693,0.0,-9.664860150643563
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 18.209101501508258,0.0,-9.650035123001999
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 18.679212671919686,0.0,-9.600471941049364
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 19.15565032408881,0.0,-9.573886556310754
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 19.627205653875535,0.0,-9.62007826301442
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 20.080991309280307,0.0,-9.74473096170459
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 20.509513489514234,0.0,-9.938266093184211
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 20.9132504753062,0.0,-10.18375698950149
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 21.294474323288114,0.0,-10.46771598898431
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 21.658772155248016,0.0,-10.777376935629945
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 22.011513616070147,0.0,-11.103291520914809
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 22.355969037499563,0.0,-11.439947126595598
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 22.690811932886504,0.0,-11.787165579861266
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 23.0138291158504,0.0,-12.145822549434342
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 23.32778287982603,0.0,-12.51284036537254
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 23.6368869890062,0.0,-12.884331903503607
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 23.94339614459693,0.0,-13.258217241183047
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 24.244826404783566,0.0,-13.636294336990886
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 24.527177919855376,0.0,-14.028120789444074
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 24.78561924940641,0.0,-14.435388644259092
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.020780099490935,0.0,-14.85626564682616
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.23598770781132,-0.07683200149536162,-15.287835637680018
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.348953446724295,-0.22745345866301392,-15.540690574669043
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.445680926507407,-0.4489423104376087,-15.78785701779043
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.52557314598664,-0.7384922093173643,-16.02937889583518
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.579048150916265,-1.0,-16.25854789456207
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.431950866269517,-1.0,-16.575322141426113
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 25.14850114807757,-1.0,-16.837864311780322
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 24.783860912314367,-1.0,-17.05058604179294
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 24.36965366756999,-1.0,-17.215133061924007
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 23.928032041633514,-1.0,-17.34988240841949
-[00:19:20] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! 23.471151290308967,-1.0,-17.465815350889443
-[00:23:10] [Server thread/WARN]: Denxy moved wrongly!
-[00:23:40] [Server thread/ERROR]: Block at -506, 51, -1 736 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@4009382d. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[00:24:05] [Server thread/INFO]: Kecs0 lost connection: Disconnected
-[00:24:05] [Server thread/INFO]: Kecs0 left the game
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -20.282636944768456,0.0,1.8834826616480314
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -20.68223084582587,0.0,1.8804964816613392
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -21.0818366653466,0.0,1.8762944758500453
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -21.481451594707778,0.0,1.8709560734191655
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -21.881073363194446,0.0,1.8645604262515008
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -22.28069990108588,0.0,1.8571787720875363
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -22.68032947229267,0.0,1.8488790579826855
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -23.07996065217185,0.0,1.8397262685612077
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -23.479592303829122,0.0,1.8297827222595515
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -23.87922355679848,0.0,1.8191083377123505
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -24.278853623933628,0.0,1.8077570421542077
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -24.67848178190252,0.0,1.7957773703283237
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -25.078107539893608,0.0,1.7832168350801112
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -25.477730456176687,0.0,1.7701181983184142
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -25.877350297107114,0.0,1.7565237771045759
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -26.27696684868033,0.0,1.742471656793441
-[00:27:07] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! -26.67657991456508,0.0,1.7279961143190121
-[00:28:01] [Async Chat Thread - #32/INFO]: <róka> BUZZ
-[00:28:05] [Server thread/INFO]: róka lost connection: Disconnected
-[00:28:05] [Server thread/INFO]: róka left the game
-[00:34:12] [Server thread/INFO]: petaki issued server command: /dynmap updaterender
-[00:46:40] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! 20.07876599093811,0.0,-3.537694885435485
-[00:46:40] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! 20.473506454907465,0.0,-3.602307526784898
-[00:46:40] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! 20.868250811168082,0.0,-3.666900296326048
-[00:46:40] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! 21.26299867049056,0.0,-3.7314751812400573
-[00:46:40] [Server thread/WARN]: Boat (vehicle of Denxy) moved too quickly! 21.657749682568692,0.0,-3.796033969990276
-[00:49:03] [Server thread/INFO]: Denxy has made the advancement [Take Aim]
-[00:55:54] [Server thread/WARN]: Denxy moved wrongly!
-[01:04:39] [Async Chat Thread - #33/INFO]: <petaki> dynmap addmarker "Név"
-[01:04:45] [Server thread/INFO]: petaki issued server command: /dynmap
-[01:04:58] [Async Chat Thread - #33/INFO]: <petaki> dmap
-[01:05:06] [Server thread/INFO]: petaki issued server command: /dmarker
-[01:05:11] [Async Chat Thread - #33/INFO]: <petaki> dmarker add "Név"
-[01:05:26] [Server thread/INFO]: Denxy issued server command: /dmarker add "Pillager tower 1"
-[01:07:38] [Server thread/WARN]: 7bc5b1c6-4f49-4266-ad1f-517c2b6f08ce (vehicle of Denxy) moved wrongly!
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -13.767261969599645,0.0,14.904381293311076
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -14.045504716351047,0.0,15.300056966724242
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -14.327138383550732,0.0,15.693304164201095
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -14.680625061762271,0.0,15.990031233572608
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -15.082990637837042,0.0,16.20456576997276
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -15.514986374126579,0.0,16.259211110300498
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -15.962362993381703,0.0,16.226621930315787
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -16.417969616450023,0.0,16.147355297780678
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -16.87797995047015,0.0,16.043112491033753
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -17.340346622420043,-0.07683200149536162,15.925505431437273
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -17.6093722410086,-0.2274534586630068,15.856393357573097
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -17.87091172560531,-0.4489423104376016,15.788576327218834
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -18.125775075715637,-0.7384922093173572,15.721914216699929
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -18.37468464891947,-1.0,15.656282063719914
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -18.81288652653234,-1.0,15.535922495922023
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -19.26358392827251,-1.0,15.409691678820764
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -19.72096743583927,-1.0,15.280319273277314
-[01:07:51] [Server thread/WARN]: Horse (vehicle of Denxy) moved too quickly! -20.18192854532731,-1.0,15.149265866395012
-[01:09:25] [Server thread/WARN]: 7bc5b1c6-4f49-4266-ad1f-517c2b6f08ce (vehicle of Denxy) moved wrongly!
-[01:11:29] [Server thread/INFO]: Denxy issued server command: /dmarker add "Lámák"
-[01:14:09] [Server thread/INFO]: petaki lost connection: Disconnected
-[01:14:09] [Server thread/INFO]: petaki left the game
-[01:14:12] [Server thread/INFO]: Denxy lost connection: Disconnected
-[01:14:12] [Server thread/INFO]: Denxy left the game
-[01:14:12] [Server thread/INFO]: Stopping the server
-[01:14:12] [Server thread/INFO]: Stopping server
-[01:14:12] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
-[01:14:12] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
-[01:14:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[01:14:12] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
-[01:14:12] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
-[01:14:12] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[01:14:12] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[01:14:12] [Server thread/INFO]: [dynmap] Saved 18487 pending tile renders in world 'OffoschWorld1'
-[01:14:17] [Server thread/INFO]: [dynmap] Disabled
-[01:14:17] [Server thread/INFO]: [sleep-most] Disabling sleep-most v4.1.1
-[01:14:17] [Server thread/INFO]: [InvSort] Disabling InvSort v1.1.0
-[01:14:17] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
-[01:14:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.94
-[01:14:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:14:17] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:14:18] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:14:18] [Server thread/INFO]: Saving players
-[01:14:18] [Server thread/INFO]: Saving worlds
-[01:14:18] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
-[01:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
-[01:14:20] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
-[01:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:14:20] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
-[01:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
-[01:14:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:14:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:34:09] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[01:34:09] [Server thread/INFO]: Loading properties
+[01:34:10] [Server thread/INFO]: This server is running Paper version git-Paper-133 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[01:34:10] [Server thread/INFO]: Debug logging is disabled
+[01:34:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:34:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:34:10] [Server thread/INFO]: Default game type: SURVIVAL
+[01:34:10] [Server thread/INFO]: Generating keypair
+[01:34:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:34:10] [Server thread/INFO]: Using default channel type
+[01:34:15] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[01:34:25] [Server thread/WARN]: Legacy plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[01:34:25] [Server thread/WARN]: Legacy plugin BetterSleeping v2.6.0 does not specify an api-version.
+[01:34:25] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.94
+[01:34:26] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[01:34:26] [Server thread/INFO]: [InvSort] Loading InvSort v1.1.0
+[01:34:26] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[01:34:26] [Server thread/INFO]: [dynmap] version=git-Paper-133 (MC: 1.15.2)
+[01:34:26] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[01:34:26] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[01:34:26] [Server thread/INFO]: [dynmap] Mod Support API available
+[01:34:26] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[01:34:26] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[01:34:26] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[01:34:26] [Server thread/INFO]: [BetterSleeping] Loading BetterSleeping v2.6.0
+[01:34:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:34:26] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.94
+[01:34:26] [Server thread/INFO]:         __    
+[01:34:26] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.94
+[01:34:26] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:34:26] [Server thread/INFO]: 
+[01:34:26] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:34:26] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:34:27] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:34:27] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:34:27] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1011ms)
+[01:34:27] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[01:34:27] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[01:34:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[01:34:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[01:34:27] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[01:34:27] [Server thread/WARN]: [LuckPerms] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[01:34:27] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[01:34:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:34:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:34:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:34:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:34:27] [Server thread/INFO]: Preparing level "OffoschWorld1"
+[01:34:27] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:34:28] [Server thread/INFO]: Loaded 6 recipes
+[01:34:28] [Server thread/INFO]: -------- World Settings For [OffoschWorld1] --------
+[01:34:28] [Server thread/INFO]: View Distance: 10
+[01:34:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:34:28] [Server thread/INFO]: Mob Spawn Range: 8
+[01:34:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:34:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:34:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:34:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:34:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:34:28] [Server thread/INFO]: Max TNT Explosions: 100
+[01:34:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:34:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:34:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:34:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[01:34:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:34:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:34:28] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_nether] --------
+[01:34:28] [Server thread/INFO]: View Distance: 10
+[01:34:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:34:28] [Server thread/INFO]: Mob Spawn Range: 8
+[01:34:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:34:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:34:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:34:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:34:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:34:28] [Server thread/INFO]: Max TNT Explosions: 100
+[01:34:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:34:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:34:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:34:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[01:34:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:34:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:34:28] [Server thread/INFO]: -------- World Settings For [OffoschWorld1_the_end] --------
+[01:34:28] [Server thread/INFO]: View Distance: 10
+[01:34:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01:34:28] [Server thread/INFO]: Mob Spawn Range: 8
+[01:34:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:34:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:34:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:34:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:34:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[01:34:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01:34:28] [Server thread/INFO]: Max TNT Explosions: 100
+[01:34:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:34:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:34:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:34:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[01:34:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:34:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:34:28] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1'/minecraft:overworld
+[01:34:28] [Server thread/INFO]: Preparing spawn area: 0%
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 5%
+[01:34:29] [Server thread/WARN]: Wrong location! (-5, -8) should be (-5, -9), EntitySnowman['Snow Golem'/61, uuid='0bee7f9d-76e3-427a-85e6-41e27b3d78cb', l='OffoschWorld1', x=-71.39, y=62.42, z=-127.93, cx=0, cz=0, tl=138930, v=false, d=false]
+[01:34:29] [Server thread/INFO]: Preparing spawn area: 85%
+[01:34:30] [Server thread/INFO]: Preparing spawn area: 100%
+[01:34:30] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1
+[01:34:30] [Server thread/INFO]: Time elapsed: 1710 ms
+[01:34:30] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_nether'/minecraft:the_nether
+[01:34:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:34:30] [Server thread/INFO]: Preparing spawn area: 53%
+[01:34:31] [Server thread/INFO]: Preparing spawn area: 100%
+[01:34:31] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_nether
+[01:34:31] [Server thread/INFO]: Time elapsed: 1202 ms
+[01:34:31] [Server thread/INFO]: Preparing start region for dimension 'OffoschWorld1_the_end'/minecraft:the_end
+[01:34:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:34:32] [Server-Worker-7/INFO]: Preparing spawn area: 100%
+[01:34:32] [Server-Worker-4/INFO]: Preparing spawn area: 100%
+[01:34:32] [Server thread/INFO]: Loaded 441 spawn chunks for world OffoschWorld1_the_end
+[01:34:32] [Server thread/INFO]: Time elapsed: 1315 ms
+[01:34:32] [Server thread/INFO]: [InvSort] Enabling InvSort v1.1.0
+[01:34:32] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257*
+[01:34:33] [Server thread/INFO]: [dynmap] Using LuckPerms 5.0.94 for access control
+[01:34:33] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[01:34:33] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[01:34:33] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[01:34:33] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[01:34:34] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[01:34:34] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[01:34:34] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[01:34:34] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[01:34:34] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'OffoschWorld1'.
+[01:34:34] [Server thread/INFO]: [dynmap] Loaded 18487 pending tile renders for world 'OffoschWorld1'
+[01:34:34] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'OffoschWorld1_nether'.
+[01:34:34] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'OffoschWorld1_the_end'.
+[01:34:34] [Server thread/INFO]: [dynmap] Enabled
+[01:34:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[01:34:34] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:34:34] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:34:34] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[01:34:34] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[01:34:34] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[01:34:34] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
+[01:34:34] [Server thread/INFO]: [Essentials] Using locale en
+[01:34:34] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:34:34] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:34:34] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[01:34:34] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[01:34:34] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[01:34:34] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[01:34:34] [Server thread/INFO]: [BetterSleeping] Enabling BetterSleeping v2.6.0*
+[01:34:34] [Server thread/INFO]: [BetterSleeping] Copying a new config.yml ...
+[01:34:34] [Server thread/INFO]: [BetterSleeping] No missing options were found in config.yml!
+[01:34:34] [Server thread/INFO]: [BetterSleeping] Copying a new lang.yml ...
+[01:34:34] [Server thread/INFO]: [BetterSleeping] No missing options were found in lang.yml!
+[01:34:34] [Server thread/INFO]: [BetterSleeping] Copying a new buffs.yml ...
+[01:34:34] [Server thread/INFO]: [BetterSleeping] No enabled sleeping buffs were found!
+[01:34:34] [Server thread/INFO]: [BetterSleeping] Succesfully hooked into Essentials!
+[01:34:35] [Server thread/INFO]: [BetterSleeping] You are using the latest version: 2.6.0.
+[01:34:35] [Server thread/INFO]: Done (7.786s)! For help, type "help"
+[01:34:35] [Server thread/INFO]: Timings Reset
+[01:34:35] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
+[01:34:36] [Craft Scheduler Thread - 1/INFO]: [Vault] No new version available
+[01:34:36] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[01:35:08] [User Authenticator #1/INFO]: UUID of player petaki is b5860217-0ccd-313e-a23e-4938ab857376
+[01:35:09] [Server thread/INFO]: petaki[/127.0.0.1:59313] logged in with entity id 360 at ([OffoschWorld1]-75.28231120216915, 64.0, -144.73169056280793)
+[01:35:10] [Server thread/WARN]: [Essentials] Permissions lag notice with (ModernVaultHandler). Response took 26,967200ms. Summary: Getting prefix for petaki
+[01:35:30] [Server thread/INFO]: petaki issued server command: /bettersleeping
+[01:35:49] [Server thread/INFO]: petaki issued server command: /bs
+[01:35:53] [Server thread/INFO]: petaki lost connection: Disconnected
+[01:35:53] [Server thread/INFO]: petaki left the game
+[01:36:09] [Server thread/INFO]: Stopping the server
+[01:36:09] [Server thread/INFO]: Stopping server
+[01:36:09] [Server thread/INFO]: [BetterSleeping] Disabling BetterSleeping v2.6.0
+[01:36:09] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[01:36:09] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[01:36:09] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[01:36:09] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy unhooked.
+[01:36:09] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
+[01:36:09] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[01:36:09] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[01:36:09] [Server thread/INFO]: [dynmap] Saved 18180 pending tile renders in world 'OffoschWorld1'
+[01:36:09] [Server thread/INFO]: [dynmap] Disabled
+[01:36:09] [Server thread/INFO]: [InvSort] Disabling InvSort v1.1.0
+[01:36:09] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[01:36:09] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.94
+[01:36:09] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:36:09] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:36:10] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:36:10] [Server thread/INFO]: Saving players
+[01:36:10] [Server thread/INFO]: Saving worlds
+[01:36:10] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1'/minecraft:overworld
+[01:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[01:36:11] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_nether'/minecraft:the_nether
+[01:36:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:36:12] [Server thread/INFO]: Saving chunks for level 'OffoschWorld1_the_end'/minecraft:the_end
+[01:36:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:36:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (OffoschWorld1): All chunks are saved
+[01:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:36:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
