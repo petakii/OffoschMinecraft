@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-03-15 23:21:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-14 20:50:33 +0100"
@@ -230,6 +236,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-03-14 20:12:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-03-15 23:10:59 +0100"
     },
     "done": true
   },
@@ -381,6 +393,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-03-15 00:51:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-03-16 00:36:04 +0100"
     },
     "done": true
   },
@@ -1688,7 +1706,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2020-03-14 20:04:21 +0100",
-      "minecraft:cow": "2020-03-14 18:47:34 +0100"
+      "minecraft:cow": "2020-03-14 18:47:34 +0100",
+      "minecraft:chicken": "2020-03-15 23:11:04 +0100"
     },
     "done": false
   },
@@ -2025,6 +2044,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-03-14 19:42:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-03-15 23:22:22 +0100"
     },
     "done": true
   },
@@ -2412,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-03-15 23:22:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-03-15 00:12:50 +0100"
@@ -2427,6 +2458,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2020-03-14 15:25:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-03-16 00:49:03 +0100"
     },
     "done": true
   },

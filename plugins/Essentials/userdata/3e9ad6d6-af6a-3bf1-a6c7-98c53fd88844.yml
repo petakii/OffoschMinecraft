@@ -1,8 +1,8 @@
 lastAccountName: Zsirafgondozo
 timestamps:
-  login: 1584217676304
-  logout: 1584222285466
-ipAddress: 94.21.187.46
+  login: 1584308528334
+  logout: 1584308786118
+ipAddress: 78.131.15.181
 lastlocation:
   world: OffoschWorld1
   x: -73.81299803036615
@@ -12,9 +12,11 @@ lastlocation:
   pitch: 58.050632
 logoutlocation:
   world: OffoschWorld1
-  x: -67.89571831530758
-  y: 64.0
-  z: -140.57056157533634
-  yaw: -25.202087
-  pitch: 2.699967
+  x: -146.5356439847842
+  y: 62.073265126430115
+  z: 75.573048840348
+  yaw: 116.342766
+  pitch: 67.35001
 afk: false
+mail:
+- §6[§rJackMaci§6] §rMutasd a pókspawnert

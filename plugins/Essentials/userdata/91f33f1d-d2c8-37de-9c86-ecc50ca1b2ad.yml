@@ -1,7 +1,7 @@
 lastAccountName: JackMaci
 timestamps:
-  login: 1584214305673
-  logout: 1584214789342
+  login: 1584294843953
+  logout: 1584299177808
 ipAddress: 78.139.15.109
 lastlocation:
   world: OffoschWorld1
@@ -12,8 +12,9 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: OffoschWorld1
-  x: -36.371196406312805
-  y: 63.9375
-  z: -129.67087175985037
-  yaw: -258.45
-  pitch: 16.049711
+  x: -111.44233296286691
+  y: 62.875
+  z: 20.6183513273403
+  yaw: -350.55103
+  pitch: 90.0
+afk: false

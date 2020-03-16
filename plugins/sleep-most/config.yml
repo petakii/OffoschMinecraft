@@ -22,7 +22,7 @@ sleep:
   OffoschWorld1:
     percentage-required: 0.5
     mob-no-target: true
-    use-exempt: false
+    use-exempt: true
     prevent-sleep: false
     prevent-phantom: false
     nightcycle-animation: false

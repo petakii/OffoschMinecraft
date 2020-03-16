@@ -1,7 +1,7 @@
 lastAccountName: róka
 timestamps:
-  login: 1584228056529
-  logout: 1584228323674
+  login: 1584306387542
+  logout: 1584314885912
 ipAddress: 145.236.36.147
 lastlocation:
   world: OffoschWorld1
@@ -12,8 +12,11 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: OffoschWorld1
-  x: -60.700000025331974
-  y: 68.0000002
-  z: -142.70000002533197
-  yaw: 162.66638
-  pitch: 31.650005
+  x: -67.43472081960931
+  y: 64.0
+  z: -138.68810553252527
+  yaw: 173.32898
+  pitch: -14.700158
+afk: false
+mail:
+- §6[§rJackMaci§6] §rpetaki "buz"

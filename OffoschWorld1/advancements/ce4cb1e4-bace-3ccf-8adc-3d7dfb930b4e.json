@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-15 21:38:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-03-14 16:54:23 +0100"
@@ -437,6 +443,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-03-14 20:07:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-03-16 00:18:19 +0100"
     },
     "done": true
   },
@@ -659,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2020-03-15 22:58:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2020-03-14 18:36:30 +0100"
@@ -710,6 +728,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2020-03-14 18:38:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2020-03-15 22:58:00 +0100"
     },
     "done": true
   },
@@ -791,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-03-16 00:18:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2020-03-14 23:50:37 +0100"
@@ -860,6 +890,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2020-03-14 17:27:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-03-15 21:50:59 +0100"
     },
     "done": true
   },
@@ -1069,11 +1105,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-03-15 22:00:37 +0100",
       "minecraft:forest": "2020-03-14 16:31:48 +0100",
+      "minecraft:mountains": "2020-03-15 23:13:11 +0100",
       "minecraft:taiga": "2020-03-14 20:56:08 +0100",
+      "minecraft:deep_cold_ocean": "2020-03-15 22:12:23 +0100",
+      "minecraft:deep_frozen_ocean": "2020-03-15 22:13:34 +0100",
+      "minecraft:birch_forest": "2020-03-15 22:28:09 +0100",
+      "minecraft:warm_ocean": "2020-03-15 21:40:25 +0100",
+      "minecraft:deep_lukewarm_ocean": "2020-03-15 21:37:20 +0100",
+      "minecraft:beach": "2020-03-15 21:35:44 +0100",
       "minecraft:dark_forest": "2020-03-14 16:32:24 +0100",
       "minecraft:river": "2020-03-14 16:37:38 +0100",
+      "minecraft:lukewarm_ocean": "2020-03-15 21:37:30 +0100",
+      "minecraft:birch_forest_hills": "2020-03-15 22:27:48 +0100",
       "minecraft:wooded_hills": "2020-03-14 16:33:55 +0100",
+      "minecraft:stone_shore": "2020-03-15 22:11:36 +0100",
+      "minecraft:swamp": "2020-03-15 21:51:49 +0100",
       "minecraft:plains": "2020-03-14 16:29:57 +0100"
     },
     "done": false
@@ -1147,6 +1195,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-03-14 19:16:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2020-03-15 22:58:00 +0100"
     },
     "done": true
   },
@@ -1294,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-03-15 21:42:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-03-14 18:31:13 +0100"
@@ -1405,6 +1465,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-14 18:31:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2020-03-15 22:58:00 +0100"
     },
     "done": true
   },
@@ -1663,6 +1729,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-03-14 23:54:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2020-03-15 22:58:00 +0100"
     },
     "done": true
   },
@@ -1930,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-03-15 22:43:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-03-14 18:38:35 +0100"
@@ -1966,6 +2044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-03-15 21:38:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2020-03-15 00:09:44 +0100"
@@ -1999,6 +2083,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-03-14 19:10:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-03-15 23:28:58 +0100"
     },
     "done": true
   },
@@ -2350,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2020-03-15 22:58:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-03-14 19:10:49 +0100"
@@ -2395,6 +2491,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-03-14 23:53:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-03-15 23:28:58 +0100"
     },
     "done": true
   },
@@ -2523,6 +2625,12 @@
       "has_stone": "2020-03-14 17:18:00 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/calico.png": "2020-03-15 22:56:16 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {

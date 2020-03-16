@@ -1,21 +1,21 @@
 lastAccountName: petaki
 timestamps:
-  login: 1584235574848
-  logout: 1584236134216
-  lastteleport: 1584235585609
+  login: 1584307275298
+  logout: 1584317649059
+  lastteleport: 1584288466199
 ipAddress: 127.0.0.1
 afk: false
 logoutlocation:
   world: OffoschWorld1
-  x: -58.06047267576296
-  y: 61.0
-  z: -140.72765414284072
-  yaw: -99.4538
-  pitch: -32.10047
+  x: -75.28231120216915
+  y: 64.0
+  z: -144.73169056280793
+  yaw: 239.20398
+  pitch: -4.8008137
 lastlocation:
   world: OffoschWorld1
-  x: -31.389067666009304
-  y: 66.0
-  z: -96.19255009634675
-  yaw: -143.70012
-  pitch: 10.95
+  x: -53.5
+  y: 67.5
+  z: -139.5
+  yaw: 137.3959
+  pitch: 13.5000725
